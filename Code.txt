@@ -1,0 +1,24 @@
+<configuration xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation=" http://sumo.sf.net/xsd/sumoConfiguration.xsd">
+
+<input>
+<net-file value="final.net.xml"/>
+<route-files value="AMTS.rou1.xml,electricbus.net.xml,final.rou.xml"/>
+</input>
+
+<time>
+<begin value="0"/>
+<end value="1000"/>
+</time>
+
+<vehicle-files>
+<vType id="BUS1" accel="0.8" decel="4.5" sigma="0.5" length="12" maxspeed="20"/>
+<vType id="BUS" accel="0.8" decel="4.5" sigma="0.5" length="5" maxspeed="20"/>
+<vType id="CAR" accel="0.8" decel="4.5" sigma="0.5" length="5" maxspeed="40"/>
+</vehicle-files>
+
+<route-definitions>
+<id="BRTS_busRoute" edges="166458245#0 166458245#1 166479614 166481853 167449523#0 167449523#1 167449523#2 166463277 167450224#0 167452383#0 167452383#1 167452383#2 167452383#3 167452383#4 167452384#1 167452384#2 167452384#3 167452384#4 166478539 166479007#0 166479007#1 166479007#2 166479007#3">
+</route-definitions>
+
+<ignore-route-errors value="True"/>
+</configuration>

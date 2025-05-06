@@ -10,7 +10,8 @@ This repository was created to showcase my analytical and technical skills (Exce
 ## Contents
 * [About me](#about-me)
 * [Portfolio Projects](#portfolio-projects)
-  - [Enhancing Efficiency and Societal Impact of Ahmedabad's BRTS: Interventions and Innovations](#enchancing-efficiency-and-societal-impact-of-ahmedabad's-brts-intervartion-and-innovations) 
+  - [Enhancing Efficiency and Societal Impact of Ahmedabad's BRTS: Interventions and Innovations](#enchancing-efficiency-and-societal-impact-of-ahmedabad's-brts-intervartion-and-innovations)
+  - [Forecasting Tata Motors' Closing Stock Price Using Nifty 50 Data](#forecasting-tata-motors-nifty50)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
 
@@ -28,3 +29,16 @@ This section contains a list of projects with brief descriptions.
 **Skills:** analytical thinking, data cleaning, data analysis, data visualisation, presentations, survey making, survey analysis, simulation modelling <br>
 **Hard skills:** MS PowerPoint, SUMO, google forms, SPSS <br>
 **Results:** One major worry is the underutilization of BRTS by various income groups, which is attributable to a variety of factors. Furthermore, increasing ridership would result in increased employment opportunities, income levels, and tax revenues, ultimately contributing to an increase in GDP. Furthermore, the BRTS has the ability to improve air quality by lowering pollution, reducing carbon footprints, and other harmful emissions. Finally, assuring safety by offering free tickets can encourage people to use the BRTS system.
+
+### Forecasting Tata Motors' Closing Stock Price Using Nifty 50 Data
+**Description:** Closing stock price of TATA Motors is predicted using autoregressive integrated moving average (ARIMA) model. For this paper, average of closing price of every year is taken into consideration. The time series observation from 2012 to 2022 is taken. Our main aim is to find the trend from the stock data and also forecast the stock prices for future years. <br>
+**Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Disseration%20-%20Ahmedabad%20BRTS/SUMO/Code.txt">
+  <code>SUMO-code.txt</code></a><br>
+**Research Paper:** 
+  <code>PDF static version</code></a> <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Disseration%20-%20Ahmedabad%20BRTS/Disseration%20Presentation.pptx">
+  <code>PowerPoint PPTX dynamic version</code></a><br>
+**Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Disseration%20-%20Ahmedabad%20BRTS/Public%20Transportation%20Survey_Data.xlsx">
+  <code>public-transportation-survey-data.xlsx</code></a><br>
+**Skills:** analytical thinking, data cleaning, data analysis, forecasting <br>
+**Hard skills:** Word, Excel, Stata <br>
+**Results:** This paper represents a ARIMA model for stock closing price prediction. Through ARIMA model, we forecast the closing prices of stock price of TATA motors for 6 years. Bayesian Information Criterion was used to find the best ARIMA model. Our study was forecasting the stock price and it always seems that double difference was more preferred in that case. Stock price will decrease in 2024 and then increase in consecutive years. 

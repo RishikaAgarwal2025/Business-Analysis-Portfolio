@@ -59,9 +59,9 @@ This section contains a list of projects with brief descriptions.
 
 ### Treatment Control Testing 
 **Description:** The hypothetical magazine subscription company BABA was created to simulate the development of a data product that provides business insights. This project outlines the data product creation process – establishing the business context, designing and implementing an appropriate database schema, generating synthetic data for the database, and creating business insights from the database. <br>
-**Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Time%20series%20econometrics/Forecasting%20code.txt">
-  <code>Forecasting-code.txt</code></a><br>
-**Research Paper:** 
+**Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Treatment%20control%20testing/Code/Treatment%20control%20testing.html">
+  <code>A/B testing.html</code></a><br>
+**Report:** 
   <code>PDF static version</code></a> <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Time%20series%20econometrics/Forecasting_stock%20market.pdf">
   <code>PDF version</code></a><br>
 **Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Treatment%20control%20testing/Data/Data.csv">

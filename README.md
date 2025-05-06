@@ -58,7 +58,7 @@ This section contains a list of projects with brief descriptions.
 **Results:** This project successfully simulated the development of a comprehensive data product for a subscription-based magazine firm, delivering actionable insights into user behavior, revenue, and engagement. Despite some limitations due to synthetic data and simplified schema, the analysis provides a valuable foundation for strategic, data-driven decisions.
 
 ### Treatment Control Testing 
-**Description:** The hypothetical magazine subscription company BABA was created to simulate the development of a data product that provides business insights. This project outlines the data product creation process – establishing the business context, designing and implementing an appropriate database schema, generating synthetic data for the database, and creating business insights from the database. <br>
+**Description:** This report presents an analysis of the experimental data from an A/B test conducted within the Loan Review Department of a consumer lending company. The experiment aimed to assess whether a newly developed computer model improves loan officers' decision-making accuracy compared to the existing model. <br>
 **Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Treatment%20control%20testing/Code/Treatment%20control%20testing.html">
   <code>A/B testing.html</code></a><br>
 **Report:** 

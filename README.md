@@ -46,8 +46,8 @@ This section contains a list of projects with brief descriptions.
 
 ### Data Management - SQL 
 **Description:** The hypothetical magazine subscription company BABA was created to simulate the development of a data product that provides business insights. This project outlines the data product creation process – establishing the business context, designing and implementing an appropriate database schema, generating synthetic data for the database, and creating business insights from the database. <br>
-**Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Disseration%20-%20Ahmedabad%20BRTS/SUMO/Code.txt">
-  <code>SUMO-code.txt</code></a><br>
+**Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Data%20Management/Code/Fake%20data%20code.py">
+  <code>Faker-code.py</code></a><br>
 **Original dataset:** Synthetic Data made from faker code 
 **Skills:** analytical thinking, data cleaning, data analysis, data visualisation, presentations, SQL <br>
 **Hard skills:** MS PowerPoint, SQL, Python: pandas, faker, random <br>

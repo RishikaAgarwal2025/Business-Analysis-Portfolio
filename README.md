@@ -32,8 +32,8 @@ This section contains a list of projects with brief descriptions.
 
 ### Forecasting Tata Motors' Closing Stock Price Using Nifty 50 Data
 **Description:** Closing stock price of TATA Motors is predicted using autoregressive integrated moving average (ARIMA) model. For this paper, average of closing price of every year is taken into consideration. The time series observation from 2012 to 2022 is taken. Our main aim is to find the trend from the stock data and also forecast the stock prices for future years. <br>
-**Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Disseration%20-%20Ahmedabad%20BRTS/SUMO/Code.txt">
-  <code>SUMO-code.txt</code></a><br>
+**Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Time%20series%20econometrics/Forecasting%20code.txt">
+  <code>Forecasting-code.txt</code></a><br>
 **Research Paper:** 
   <code>PDF static version</code></a> <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Disseration%20-%20Ahmedabad%20BRTS/Disseration%20Presentation.pptx">
   <code>PowerPoint PPTX dynamic version</code></a><br>

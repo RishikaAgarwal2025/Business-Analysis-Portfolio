@@ -12,6 +12,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 * [Portfolio Projects](#portfolio-projects)
   - [Enhancing Efficiency and Societal Impact of Ahmedabad's BRTS: Interventions and Innovations](#enchancing-efficiency-and-societal-impact-of-ahmedabad's-brts-intervartion-and-innovations)
   - [Forecasting Tata Motors' Closing Stock Price Using Nifty 50 Data](#forecasting-tata-motors-nifty50)
+  - [Data Management](#data-management-sql)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
 
@@ -42,3 +43,12 @@ This section contains a list of projects with brief descriptions.
 **Skills:** analytical thinking, data cleaning, data analysis, forecasting <br>
 **Hard skills:** Word, Excel, Stata <br>
 **Results:** This paper represents a ARIMA model for stock closing price prediction. Through ARIMA model, we forecast the closing prices of stock price of TATA motors for 6 years. Bayesian Information Criterion was used to find the best ARIMA model. Our study was forecasting the stock price and it always seems that double difference was more preferred in that case. Stock price will decrease in 2024 and then increase in consecutive years. 
+
+### Data Management - SQL 
+**Description:** The hypothetical magazine subscription company BABA was created to simulate the development of a data product that provides business insights. This project outlines the data product creation process – establishing the business context, designing and implementing an appropriate database schema, generating synthetic data for the database, and creating business insights from the database. <br>
+**Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Disseration%20-%20Ahmedabad%20BRTS/SUMO/Code.txt">
+  <code>SUMO-code.txt</code></a><br>
+**Original dataset:** Synthetic Data made from faker code 
+**Skills:** analytical thinking, data cleaning, data analysis, data visualisation, presentations, survey making, survey analysis, simulation modelling <br>
+**Hard skills:** MS PowerPoint, SQL, Python: pandas, faker,  <br>
+**Results:** This project successfully simulated the development of a comprehensive data product for a subscription-based magazine firm, delivering actionable insights into user behavior, revenue, and engagement. Despite some limitations due to synthetic data and simplified schema, the analysis provides a valuable foundation for strategic, data-driven decisions.

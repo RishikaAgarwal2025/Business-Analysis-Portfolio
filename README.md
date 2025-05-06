@@ -37,7 +37,7 @@ This section contains a list of projects with brief descriptions.
 **Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Time%20series%20econometrics/Forecasting%20code.txt">
   <code>Forecasting-code.txt</code></a><br>
 **Research Paper:** 
-  <code>PDF static version</code></a> <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Time%20series%20econometrics/Forecasting_stock%20market.pdf">
+  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Time%20series%20econometrics/Forecasting_stock%20market.pdf">
   <code>PDF version</code></a><br>
 **Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Time%20series%20econometrics/Tata_motors_Nifty50.xlsx">
   <code>Tata-motors-nifty50.xlsx</code></a><br>
@@ -50,7 +50,7 @@ This section contains a list of projects with brief descriptions.
 **Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Data%20Management/Code/Fake%20data%20code.py">
   <code>Faker-code.py</code></a><br>
 **Report:** 
-  <code>PDF static version</code></a> <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Data%20Management/Report/Data%20Management_Report.pdf">
+  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Data%20Management/Report/Data%20Management_Report.pdf">
   <code>PDF version</code></a><br>
 **Original dataset:** Synthetic Data made from faker code <br>
 **Skills:** analytical thinking, data cleaning, data analysis, data visualisation, presentations, SQL <br>
@@ -62,7 +62,7 @@ This section contains a list of projects with brief descriptions.
 **Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Treatment%20control%20testing/Code/Treatment%20control%20testing.html">
   <code>A/B testing.html</code></a><br>
 **Report:** 
-  <code>PDF static version</code></a> <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Time%20series%20econometrics/Forecasting_stock%20market.pdf">
+  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Treatment%20control%20testing/Report/Treatment%20Control%20Testing%20Report.pdf">
   <code>PDF version</code></a><br>
 **Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Treatment%20control%20testing/Data/Data.csv">
   <code>Testing-data.csv</code></a><br>

@@ -37,8 +37,8 @@ This section contains a list of projects with brief descriptions.
 **Research Paper:** 
   <code>PDF static version</code></a> <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Time%20series%20econometrics/Forecasting_stock%20market.pdf">
   <code>PDF version</code></a><br>
-**Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Disseration%20-%20Ahmedabad%20BRTS/Public%20Transportation%20Survey_Data.xlsx">
-  <code>public-transportation-survey-data.xlsx</code></a><br>
+**Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Time%20series%20econometrics/Tata_motors_Nifty50.xlsx">
+  <code>Tata-motors-nifty50.xlsx</code></a><br>
 **Skills:** analytical thinking, data cleaning, data analysis, forecasting <br>
 **Hard skills:** Word, Excel, Stata <br>
 **Results:** This paper represents a ARIMA model for stock closing price prediction. Through ARIMA model, we forecast the closing prices of stock price of TATA motors for 6 years. Bayesian Information Criterion was used to find the best ARIMA model. Our study was forecasting the stock price and it always seems that double difference was more preferred in that case. Stock price will decrease in 2024 and then increase in consecutive years. 

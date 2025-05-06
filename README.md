@@ -13,6 +13,7 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [Enhancing Efficiency and Societal Impact of Ahmedabad's BRTS: Interventions and Innovations](#enchancing-efficiency-and-societal-impact-of-ahmedabad's-brts-intervartion-and-innovations)
   - [Forecasting Tata Motors' Closing Stock Price Using Nifty 50 Data](#forecasting-tata-motors-nifty50)
   - [Data Management](#data-management-sql)
+  - [Treatment Control testing](#treatment-control-testing)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
 

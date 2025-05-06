@@ -20,8 +20,8 @@ This section contains a list of projects with brief descriptions.
 **Description:** The study is centered around the analysis of Bus Rapid Transit System (BRTS) utilization and travel behavior, aiming to simulate and comprehend the impact of BRTS on travel time, duration, and emissions. A comparative evaluation of travel performance and emissions among Ahmedabad Municipal Transport Service (AMTS), private cars, and BRTS is conducted through simulation using SUMO (Simulation of Urban Mobility). <br>
 **Code:**<a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/German-cars-Analysis.ipynb">
   <code>german-cars-data-analysis.ipynb</code></a><br>
-**Presentation:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/German%20cars%20presentation%20Pavel%20Liaoshka.pdf">
-  <code>PDF static version</code></a> <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/German%20cars%20presentation%20Pavel%20Liaoshka.pptx">
+**Presentation:** 
+  <code>PDF static version</code></a> <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Disseration%20-%20Ahmedabad%20BRTS/Disseration%20Presentation.pptx">
   <code>PowerPoint PPTX dynamic version</code></a><br>
 **Original dataset:** <a href = "https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/German%20cars%20Analysis/original%20dataset.csv">
   <code>german-cars-dataset.csv</code></a><br>

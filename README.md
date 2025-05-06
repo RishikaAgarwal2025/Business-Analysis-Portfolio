@@ -64,8 +64,8 @@ This section contains a list of projects with brief descriptions.
 **Research Paper:** 
   <code>PDF static version</code></a> <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Time%20series%20econometrics/Forecasting_stock%20market.pdf">
   <code>PDF version</code></a><br>
-**Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Time%20series%20econometrics/Tata_motors_Nifty50.xlsx">
-  <code>Tata-motors-nifty50.xlsx</code></a><br>
+**Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Treatment%20control%20testing/Data/Data.csv">
+  <code>Testing-data.csv</code></a><br>
 **Skills:** analytical thinking, data cleaning, data analysis, A/B testing <br>
 **Hard skills:** MS Word, R <br>
 **Results:** The results indicate that the new model significantly reduces both Type I and Type II errors, leading to fewer incorrect loan approvals and rejections. To ensure more reliable results, the experiment should continue with an improved design. The control and treatment groups should be balanced, and all loan officers must complete final-stage decisions to maintain consistency. Additionally, a larger dataset is necessary to enhance the statistical power of the experiment.

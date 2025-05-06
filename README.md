@@ -6,7 +6,7 @@ I have a background in business analytics and stock market analysis.
 
 You can see more information in my [**CV**](https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Rishika_Agarwal.pdf). 
 
-This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, R, Stata, PowerPoint, and others).
+This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, R, Stata, PowerPoint, and Tableau).
 ## Contents
 * [About me](#about-me)
 * [Portfolio Projects](#portfolio-projects)
@@ -49,6 +49,6 @@ This section contains a list of projects with brief descriptions.
 **Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Disseration%20-%20Ahmedabad%20BRTS/SUMO/Code.txt">
   <code>SUMO-code.txt</code></a><br>
 **Original dataset:** Synthetic Data made from faker code 
-**Skills:** analytical thinking, data cleaning, data analysis, data visualisation, presentations, survey making, survey analysis, simulation modelling <br>
-**Hard skills:** MS PowerPoint, SQL, Python: pandas, faker,  <br>
+**Skills:** analytical thinking, data cleaning, data analysis, data visualisation, presentations, SQL <br>
+**Hard skills:** MS PowerPoint, SQL, Python: pandas, faker, random <br>
 **Results:** This project successfully simulated the development of a comprehensive data product for a subscription-based magazine firm, delivering actionable insights into user behavior, revenue, and engagement. Despite some limitations due to synthetic data and simplified schema, the analysis provides a valuable foundation for strategic, data-driven decisions.

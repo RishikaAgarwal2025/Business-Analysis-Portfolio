@@ -49,7 +49,23 @@ This section contains a list of projects with brief descriptions.
 **Description:** The hypothetical magazine subscription company BABA was created to simulate the development of a data product that provides business insights. This project outlines the data product creation process – establishing the business context, designing and implementing an appropriate database schema, generating synthetic data for the database, and creating business insights from the database. <br>
 **Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Data%20Management/Code/Fake%20data%20code.py">
   <code>Faker-code.py</code></a><br>
+**Report:** 
+  <code>PDF static version</code></a> <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Time%20series%20econometrics/Forecasting_stock%20market.pdf">
+  <code>PDF version</code></a><br>
 **Original dataset:** Synthetic Data made from faker code <br>
 **Skills:** analytical thinking, data cleaning, data analysis, data visualisation, presentations, SQL <br>
 **Hard skills:** MS PowerPoint, SQL, Python: pandas, faker, random <br>
 **Results:** This project successfully simulated the development of a comprehensive data product for a subscription-based magazine firm, delivering actionable insights into user behavior, revenue, and engagement. Despite some limitations due to synthetic data and simplified schema, the analysis provides a valuable foundation for strategic, data-driven decisions.
+
+### Treatment Control Testing 
+**Description:** The hypothetical magazine subscription company BABA was created to simulate the development of a data product that provides business insights. This project outlines the data product creation process – establishing the business context, designing and implementing an appropriate database schema, generating synthetic data for the database, and creating business insights from the database. <br>
+**Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Time%20series%20econometrics/Forecasting%20code.txt">
+  <code>Forecasting-code.txt</code></a><br>
+**Research Paper:** 
+  <code>PDF static version</code></a> <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Time%20series%20econometrics/Forecasting_stock%20market.pdf">
+  <code>PDF version</code></a><br>
+**Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Time%20series%20econometrics/Tata_motors_Nifty50.xlsx">
+  <code>Tata-motors-nifty50.xlsx</code></a><br>
+**Skills:** analytical thinking, data cleaning, data analysis, A/B testing <br>
+**Hard skills:** MS Word, R <br>
+**Results:** The results indicate that the new model significantly reduces both Type I and Type II errors, leading to fewer incorrect loan approvals and rejections. To ensure more reliable results, the experiment should continue with an improved design. The control and treatment groups should be balanced, and all loan officers must complete final-stage decisions to maintain consistency. Additionally, a larger dataset is necessary to enhance the statistical power of the experiment.

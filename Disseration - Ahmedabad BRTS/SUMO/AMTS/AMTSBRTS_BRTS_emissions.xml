@@ -1,0 +1,1112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-21 09:17:44 by Eclipse SUMO sumo Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="final.net.xml"/>
+        <route-files value="BRTS.route.xml"/>
+    </input>
+
+    <output>
+        <emission-output value="AMTSBRTS_BRTS_emissions.xml"/>
+    </output>
+
+    <time>
+        <begin value="500"/>
+        <end value="1000"/>
+    </time>
+
+    <processing>
+        <ignore-route-errors value="True"/>
+    </processing>
+
+    <emissions>
+        <device.emissions.probability value="0.10"/>
+    </emissions>
+
+</configuration>
+-->
+
+<emission-export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/emission_file.xsd">
+    <timestep time="500.00"/>
+    <timestep time="501.00"/>
+    <timestep time="502.00"/>
+    <timestep time="503.00"/>
+    <timestep time="504.00"/>
+    <timestep time="505.00"/>
+    <timestep time="506.00"/>
+    <timestep time="507.00"/>
+    <timestep time="508.00"/>
+    <timestep time="509.00"/>
+    <timestep time="510.00"/>
+    <timestep time="511.00"/>
+    <timestep time="512.00"/>
+    <timestep time="513.00"/>
+    <timestep time="514.00"/>
+    <timestep time="515.00"/>
+    <timestep time="516.00"/>
+    <timestep time="517.00"/>
+    <timestep time="518.00"/>
+    <timestep time="519.00"/>
+    <timestep time="520.00"/>
+    <timestep time="521.00"/>
+    <timestep time="522.00"/>
+    <timestep time="523.00"/>
+    <timestep time="524.00"/>
+    <timestep time="525.00"/>
+    <timestep time="526.00"/>
+    <timestep time="527.00"/>
+    <timestep time="528.00"/>
+    <timestep time="529.00"/>
+    <timestep time="530.00"/>
+    <timestep time="531.00"/>
+    <timestep time="532.00"/>
+    <timestep time="533.00"/>
+    <timestep time="534.00"/>
+    <timestep time="535.00"/>
+    <timestep time="536.00"/>
+    <timestep time="537.00"/>
+    <timestep time="538.00"/>
+    <timestep time="539.00"/>
+    <timestep time="540.00"/>
+    <timestep time="541.00"/>
+    <timestep time="542.00"/>
+    <timestep time="543.00"/>
+    <timestep time="544.00"/>
+    <timestep time="545.00"/>
+    <timestep time="546.00"/>
+    <timestep time="547.00"/>
+    <timestep time="548.00"/>
+    <timestep time="549.00"/>
+    <timestep time="550.00"/>
+    <timestep time="551.00"/>
+    <timestep time="552.00"/>
+    <timestep time="553.00"/>
+    <timestep time="554.00"/>
+    <timestep time="555.00"/>
+    <timestep time="556.00"/>
+    <timestep time="557.00"/>
+    <timestep time="558.00"/>
+    <timestep time="559.00"/>
+    <timestep time="560.00"/>
+    <timestep time="561.00"/>
+    <timestep time="562.00"/>
+    <timestep time="563.00"/>
+    <timestep time="564.00"/>
+    <timestep time="565.00"/>
+    <timestep time="566.00"/>
+    <timestep time="567.00"/>
+    <timestep time="568.00"/>
+    <timestep time="569.00"/>
+    <timestep time="570.00"/>
+    <timestep time="571.00"/>
+    <timestep time="572.00"/>
+    <timestep time="573.00"/>
+    <timestep time="574.00"/>
+    <timestep time="575.00"/>
+    <timestep time="576.00"/>
+    <timestep time="577.00"/>
+    <timestep time="578.00"/>
+    <timestep time="579.00"/>
+    <timestep time="580.00"/>
+    <timestep time="581.00"/>
+    <timestep time="582.00"/>
+    <timestep time="583.00"/>
+    <timestep time="584.00"/>
+    <timestep time="585.00"/>
+    <timestep time="586.00"/>
+    <timestep time="587.00"/>
+    <timestep time="588.00"/>
+    <timestep time="589.00"/>
+    <timestep time="590.00"/>
+    <timestep time="591.00"/>
+    <timestep time="592.00"/>
+    <timestep time="593.00"/>
+    <timestep time="594.00"/>
+    <timestep time="595.00"/>
+    <timestep time="596.00"/>
+    <timestep time="597.00"/>
+    <timestep time="598.00"/>
+    <timestep time="599.00"/>
+    <timestep time="600.00"/>
+    <timestep time="601.00"/>
+    <timestep time="602.00"/>
+    <timestep time="603.00"/>
+    <timestep time="604.00"/>
+    <timestep time="605.00"/>
+    <timestep time="606.00"/>
+    <timestep time="607.00"/>
+    <timestep time="608.00"/>
+    <timestep time="609.00"/>
+    <timestep time="610.00"/>
+    <timestep time="611.00"/>
+    <timestep time="612.00"/>
+    <timestep time="613.00"/>
+    <timestep time="614.00"/>
+    <timestep time="615.00"/>
+    <timestep time="616.00"/>
+    <timestep time="617.00"/>
+    <timestep time="618.00"/>
+    <timestep time="619.00"/>
+    <timestep time="620.00"/>
+    <timestep time="621.00"/>
+    <timestep time="622.00"/>
+    <timestep time="623.00"/>
+    <timestep time="624.00"/>
+    <timestep time="625.00"/>
+    <timestep time="626.00"/>
+    <timestep time="627.00"/>
+    <timestep time="628.00"/>
+    <timestep time="629.00"/>
+    <timestep time="630.00"/>
+    <timestep time="631.00"/>
+    <timestep time="632.00"/>
+    <timestep time="633.00"/>
+    <timestep time="634.00"/>
+    <timestep time="635.00"/>
+    <timestep time="636.00"/>
+    <timestep time="637.00"/>
+    <timestep time="638.00"/>
+    <timestep time="639.00"/>
+    <timestep time="640.00"/>
+    <timestep time="641.00"/>
+    <timestep time="642.00"/>
+    <timestep time="643.00"/>
+    <timestep time="644.00"/>
+    <timestep time="645.00"/>
+    <timestep time="646.00"/>
+    <timestep time="647.00"/>
+    <timestep time="648.00"/>
+    <timestep time="649.00"/>
+    <timestep time="650.00"/>
+    <timestep time="651.00"/>
+    <timestep time="652.00"/>
+    <timestep time="653.00"/>
+    <timestep time="654.00"/>
+    <timestep time="655.00"/>
+    <timestep time="656.00"/>
+    <timestep time="657.00"/>
+    <timestep time="658.00"/>
+    <timestep time="659.00"/>
+    <timestep time="660.00"/>
+    <timestep time="661.00"/>
+    <timestep time="662.00"/>
+    <timestep time="663.00"/>
+    <timestep time="664.00"/>
+    <timestep time="665.00"/>
+    <timestep time="666.00"/>
+    <timestep time="667.00"/>
+    <timestep time="668.00"/>
+    <timestep time="669.00"/>
+    <timestep time="670.00"/>
+    <timestep time="671.00"/>
+    <timestep time="672.00"/>
+    <timestep time="673.00"/>
+    <timestep time="674.00"/>
+    <timestep time="675.00"/>
+    <timestep time="676.00"/>
+    <timestep time="677.00"/>
+    <timestep time="678.00"/>
+    <timestep time="679.00"/>
+    <timestep time="680.00"/>
+    <timestep time="681.00"/>
+    <timestep time="682.00"/>
+    <timestep time="683.00"/>
+    <timestep time="684.00"/>
+    <timestep time="685.00"/>
+    <timestep time="686.00"/>
+    <timestep time="687.00"/>
+    <timestep time="688.00"/>
+    <timestep time="689.00"/>
+    <timestep time="690.00"/>
+    <timestep time="691.00"/>
+    <timestep time="692.00"/>
+    <timestep time="693.00"/>
+    <timestep time="694.00"/>
+    <timestep time="695.00"/>
+    <timestep time="696.00"/>
+    <timestep time="697.00"/>
+    <timestep time="698.00"/>
+    <timestep time="699.00"/>
+    <timestep time="700.00"/>
+    <timestep time="701.00"/>
+    <timestep time="702.00"/>
+    <timestep time="703.00"/>
+    <timestep time="704.00"/>
+    <timestep time="705.00"/>
+    <timestep time="706.00"/>
+    <timestep time="707.00"/>
+    <timestep time="708.00"/>
+    <timestep time="709.00"/>
+    <timestep time="710.00"/>
+    <timestep time="711.00"/>
+    <timestep time="712.00"/>
+    <timestep time="713.00"/>
+    <timestep time="714.00"/>
+    <timestep time="715.00"/>
+    <timestep time="716.00"/>
+    <timestep time="717.00"/>
+    <timestep time="718.00"/>
+    <timestep time="719.00"/>
+    <timestep time="720.00"/>
+    <timestep time="721.00"/>
+    <timestep time="722.00"/>
+    <timestep time="723.00"/>
+    <timestep time="724.00"/>
+    <timestep time="725.00"/>
+    <timestep time="726.00"/>
+    <timestep time="727.00"/>
+    <timestep time="728.00"/>
+    <timestep time="729.00"/>
+    <timestep time="730.00"/>
+    <timestep time="731.00"/>
+    <timestep time="732.00"/>
+    <timestep time="733.00"/>
+    <timestep time="734.00"/>
+    <timestep time="735.00"/>
+    <timestep time="736.00"/>
+    <timestep time="737.00"/>
+    <timestep time="738.00"/>
+    <timestep time="739.00"/>
+    <timestep time="740.00"/>
+    <timestep time="741.00"/>
+    <timestep time="742.00"/>
+    <timestep time="743.00"/>
+    <timestep time="744.00"/>
+    <timestep time="745.00"/>
+    <timestep time="746.00"/>
+    <timestep time="747.00"/>
+    <timestep time="748.00"/>
+    <timestep time="749.00"/>
+    <timestep time="750.00"/>
+    <timestep time="751.00"/>
+    <timestep time="752.00"/>
+    <timestep time="753.00"/>
+    <timestep time="754.00"/>
+    <timestep time="755.00"/>
+    <timestep time="756.00"/>
+    <timestep time="757.00"/>
+    <timestep time="758.00"/>
+    <timestep time="759.00"/>
+    <timestep time="760.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="12.10" speed="0.00" angle="226.74" x="2146.22" y="3060.00"/>
+    </timestep>
+    <timestep time="761.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2659.64" CO="153.74" HC="0.76" NOx="1.20" PMx="0.06" fuel="848.36" electricity="0.00" noise="59.17" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="12.78" speed="0.68" angle="226.74" x="2145.73" y="3059.54"/>
+    </timestep>
+    <timestep time="762.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2612.74" CO="145.62" HC="0.72" NOx="1.17" PMx="0.06" fuel="833.39" electricity="0.00" noise="58.22" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="13.87" speed="1.10" angle="226.74" x="2144.93" y="3058.78"/>
+    </timestep>
+    <timestep time="763.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2644.90" CO="138.04" HC="0.69" NOx="1.17" PMx="0.06" fuel="843.65" electricity="0.00" noise="58.75" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="15.47" speed="1.60" angle="226.74" x="2143.76" y="3057.69"/>
+    </timestep>
+    <timestep time="764.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2760.31" CO="129.80" HC="0.65" NOx="1.21" PMx="0.06" fuel="880.46" electricity="0.00" noise="59.74" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="17.73" speed="2.26" angle="226.74" x="2142.12" y="3056.14"/>
+    </timestep>
+    <timestep time="765.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2628.16" CO="120.49" HC="0.61" NOx="1.13" PMx="0.05" fuel="838.31" electricity="0.00" noise="58.89" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="20.41" speed="2.68" angle="226.74" x="2140.16" y="3054.30"/>
+    </timestep>
+    <timestep time="766.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2672.43" CO="114.37" HC="0.58" NOx="1.14" PMx="0.05" fuel="852.42" electricity="0.00" noise="59.28" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="23.55" speed="3.14" angle="226.74" x="2137.87" y="3052.14"/>
+    </timestep>
+    <timestep time="767.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3038.99" CO="110.37" HC="0.57" NOx="1.29" PMx="0.06" fuel="969.33" electricity="0.00" noise="61.03" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="27.47" speed="3.92" angle="225.03" x="2135.27" y="3049.20"/>
+    </timestep>
+    <timestep time="768.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2904.48" CO="99.13" HC="0.52" NOx="1.21" PMx="0.05" fuel="926.43" electricity="0.00" noise="60.54" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="32.00" speed="4.52" angle="222.85" x="2132.29" y="3045.78"/>
+    </timestep>
+    <timestep time="769.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3232.83" CO="95.33" HC="0.51" NOx="1.35" PMx="0.06" fuel="1031.15" electricity="0.00" noise="61.69" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="37.30" speed="5.30" angle="220.97" x="2128.81" y="3041.77"/>
+    </timestep>
+    <timestep time="770.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2852.10" CO="81.30" HC="0.43" NOx="1.15" PMx="0.04" fuel="909.72" electricity="0.00" noise="60.70" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="43.07" speed="5.78" angle="220.97" x="2125.02" y="3037.40"/>
+    </timestep>
+    <timestep time="771.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2842.10" CO="75.46" HC="0.41" NOx="1.14" PMx="0.04" fuel="906.53" electricity="0.00" noise="60.83" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="49.30" speed="6.22" angle="220.97" x="2120.93" y="3032.69"/>
+    </timestep>
+    <timestep time="772.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3374.49" CO="77.84" HC="0.43" NOx="1.37" PMx="0.05" fuel="1076.33" electricity="0.00" noise="62.26" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="56.22" speed="6.93" angle="220.97" x="2116.38" y="3027.45"/>
+    </timestep>
+    <timestep time="773.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3254.07" CO="68.46" HC="0.39" NOx="1.30" PMx="0.05" fuel="1037.92" electricity="0.00" noise="62.17" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="63.74" speed="7.52" angle="219.03" x="2111.76" y="3021.51"/>
+    </timestep>
+    <timestep time="774.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3144.82" CO="60.57" HC="0.35" NOx="1.23" PMx="0.04" fuel="1003.07" electricity="0.00" noise="62.14" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="71.76" speed="8.02" angle="217.62" x="2106.85" y="3015.14"/>
+    </timestep>
+    <timestep time="775.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3461.39" CO="60.55" HC="0.35" NOx="1.37" PMx="0.05" fuel="1104.04" electricity="0.00" noise="62.90" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="80.39" speed="8.63" angle="217.62" x="2101.57" y="3008.29"/>
+    </timestep>
+    <timestep time="776.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4012.00" CO="63.98" HC="0.38" NOx="1.61" PMx="0.06" fuel="1279.65" electricity="0.00" noise="63.99" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="89.81" speed="9.41" angle="217.62" x="2095.82" y="3000.82"/>
+    </timestep>
+    <timestep time="777.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3655.29" CO="50.98" HC="0.32" NOx="1.42" PMx="0.05" fuel="1165.88" electricity="0.00" noise="63.68" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="99.81" speed="10.00" angle="217.57" x="2089.71" y="2992.87"/>
+    </timestep>
+    <timestep time="778.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4117.78" CO="54.10" HC="0.34" NOx="1.62" PMx="0.06" fuel="1313.39" electricity="0.00" noise="64.53" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="110.52" speed="10.71" angle="217.05" x="2083.24" y="2984.31"/>
+    </timestep>
+    <timestep time="779.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4453.05" CO="54.59" HC="0.35" NOx="1.76" PMx="0.07" fuel="1420.32" electricity="0.00" noise="65.18" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="122.00" speed="11.48" angle="217.04" x="2076.32" y="2975.13"/>
+    </timestep>
+    <timestep time="780.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3937.46" CO="39.62" HC="0.27" NOx="1.50" PMx="0.06" fuel="1255.87" electricity="0.00" noise="64.84" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="134.03" speed="12.03" angle="217.39" x="2069.00" y="2965.55"/>
+    </timestep>
+    <timestep time="781.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3666.43" CO="30.75" HC="0.22" NOx="1.37" PMx="0.05" fuel="1169.43" electricity="0.00" noise="64.78" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="146.51" speed="12.47" angle="217.72" x="2061.35" y="2955.67"/>
+    </timestep>
+    <timestep time="782.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4865.64" CO="50.24" HC="0.34" NOx="1.91" PMx="0.08" fuel="1551.91" electricity="0.00" noise="66.20" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="159.73" speed="13.22" angle="217.72" x="2053.25" y="2945.19"/>
+    </timestep>
+    <timestep time="783.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3771.98" CO="25.08" HC="0.20" NOx="1.39" PMx="0.05" fuel="1203.09" electricity="0.00" noise="65.44" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="173.36" speed="13.63" angle="216.17" x="2045.15" y="2934.19"/>
+    </timestep>
+    <timestep time="784.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4447.78" CO="35.59" HC="0.27" NOx="1.69" PMx="0.07" fuel="1418.63" electricity="0.00" noise="66.23" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="187.56" speed="14.20" angle="214.74" x="2037.05" y="2922.50"/>
+    </timestep>
+    <timestep time="785.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="5211.42" CO="47.37" HC="0.34" NOx="2.03" PMx="0.09" fuel="1662.19" electricity="0.00" noise="67.12" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="202.47" speed="14.91" angle="214.79" x="2028.53" y="2910.24"/>
+    </timestep>
+    <timestep time="786.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="5469.40" CO="49.12" HC="0.35" NOx="2.14" PMx="0.09" fuel="1744.47" electricity="0.00" noise="67.58" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="218.10" speed="15.64" angle="212.15" x="2020.05" y="2897.07"/>
+    </timestep>
+    <timestep time="787.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4719.27" CO="31.44" HC="0.25" NOx="1.77" PMx="0.07" fuel="1505.22" electricity="0.00" noise="67.30" route="bus_route" type="BUS" waiting="0.00" lane=":1829509114_0_0" pos="7.35" speed="16.14" angle="211.70" x="2011.56" y="2883.32"/>
+    </timestep>
+    <timestep time="788.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="6002.94" CO="54.94" HC="0.39" NOx="2.36" PMx="0.11" fuel="1914.65" electricity="0.00" noise="68.42" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="14.85" speed="16.90" angle="211.66" x="2002.30" y="2868.31"/>
+    </timestep>
+    <timestep time="789.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="6463.61" CO="61.86" HC="0.44" NOx="2.56" PMx="0.12" fuel="2061.57" electricity="0.00" noise="69.00" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="32.55" speed="17.70" angle="211.57" x="1992.57" y="2852.48"/>
+    </timestep>
+    <timestep time="790.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="5387.25" CO="38.29" HC="0.30" NOx="2.04" PMx="0.09" fuel="1718.27" electricity="0.00" noise="68.61" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="50.77" speed="18.23" angle="211.28" x="1982.61" y="2836.15"/>
+    </timestep>
+    <timestep time="791.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="6863.12" CO="67.02" HC="0.47" NOx="2.71" PMx="0.13" fuel="2189.00" electricity="0.00" noise="69.71" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="69.78" speed="19.01" angle="211.23" x="1972.27" y="2819.09"/>
+    </timestep>
+    <timestep time="792.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="64.54" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="86.81" speed="17.02" angle="215.47" x="1962.23" y="2804.32"/>
+    </timestep>
+    <timestep time="793.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="60.10" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="99.42" speed="12.62" angle="215.76" x="1954.49" y="2793.58"/>
+    </timestep>
+    <timestep time="794.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="54.41" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="107.55" speed="8.13" angle="215.76" x="1949.50" y="2786.65"/>
+    </timestep>
+    <timestep time="795.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="45.41" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="111.25" speed="3.70" angle="193.87" x="1952.47" y="2785.13"/>
+    </timestep>
+    <timestep time="796.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2431.47" CO="157.54" HC="0.77" NOx="1.11" PMx="0.06" fuel="775.58" electricity="0.00" noise="40.55" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="111.44" speed="0.18" angle="192.12" x="1952.65" y="2785.06"/>
+    </timestep>
+    <timestep time="797.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2604.95" CO="161.88" HC="0.80" NOx="1.19" PMx="0.06" fuel="830.92" electricity="0.00" noise="55.80" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="111.58" speed="0.14" angle="190.74" x="1952.79" y="2785.01"/>
+    </timestep>
+    <timestep time="798.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2620.69" CO="164.25" HC="0.81" NOx="1.20" PMx="0.07" fuel="835.94" electricity="0.00" noise="55.44" route="bus_route" type="BUS" waiting="1.00" lane="166458245#1_0" pos="111.61" speed="0.03" angle="190.49" x="1952.82" y="2785.00"/>
+    </timestep>
+    <timestep time="799.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2623.76" CO="164.63" HC="0.81" NOx="1.20" PMx="0.07" fuel="836.92" electricity="0.00" noise="55.86" route="bus_route" type="BUS" waiting="2.00" lane="166458245#1_0" pos="111.61" speed="0.01" angle="190.42" x="1952.83" y="2785.00"/>
+    </timestep>
+    <timestep time="800.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.25" CO="164.70" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.07" electricity="0.00" noise="55.93" route="bus_route" type="BUS" waiting="3.00" lane="166458245#1_0" pos="111.62" speed="0.00" angle="190.39" x="1952.83" y="2785.00"/>
+    </timestep>
+    <timestep time="801.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.38" CO="164.72" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.11" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="4.00" lane="166458245#1_0" pos="111.62" speed="0.00" angle="190.36" x="1952.83" y="2785.00"/>
+    </timestep>
+    <timestep time="802.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.69" CO="164.77" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.21" electricity="0.00" noise="55.93" route="bus_route" type="BUS" waiting="5.00" lane="166458245#1_0" pos="111.62" speed="0.00" angle="190.36" x="1952.83" y="2785.00"/>
+    </timestep>
+    <timestep time="803.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.70" CO="164.77" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="6.00" lane="166458245#1_0" pos="111.62" speed="0.00" angle="190.36" x="1952.83" y="2785.00"/>
+    </timestep>
+    <timestep time="804.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="7.00" lane="166458245#1_0" pos="111.62" speed="0.00" angle="190.36" x="1952.83" y="2785.00"/>
+    </timestep>
+    <timestep time="805.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="8.00" lane="166458245#1_0" pos="111.62" speed="0.00" angle="190.36" x="1952.83" y="2785.00"/>
+    </timestep>
+    <timestep time="806.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="9.00" lane="166458245#1_0" pos="111.62" speed="0.00" angle="190.36" x="1952.83" y="2785.00"/>
+    </timestep>
+    <timestep time="807.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="10.00" lane="166458245#1_0" pos="111.62" speed="0.00" angle="190.36" x="1952.83" y="2785.00"/>
+    </timestep>
+    <timestep time="808.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="11.00" lane="166458245#1_0" pos="111.62" speed="0.00" angle="190.36" x="1952.83" y="2785.00"/>
+    </timestep>
+    <timestep time="809.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="12.00" lane="166458245#1_0" pos="111.62" speed="0.00" angle="190.36" x="1952.83" y="2785.00"/>
+    </timestep>
+    <timestep time="810.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2675.84" CO="152.97" HC="0.76" NOx="1.21" PMx="0.06" fuel="853.52" electricity="0.00" noise="59.48" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="112.36" speed="0.74" angle="182.51" x="1953.56" y="2784.73"/>
+    </timestep>
+    <timestep time="811.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2707.52" CO="142.24" HC="0.71" NOx="1.20" PMx="0.06" fuel="863.62" electricity="0.00" noise="59.47" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779260093_1779260094_1779260095_1779260096_10_0" pos="1.16" speed="1.42" angle="179.67" x="1953.09" y="2783.74"/>
+    </timestep>
+    <timestep time="812.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2648.22" CO="133.08" HC="0.67" NOx="1.16" PMx="0.06" fuel="844.71" electricity="0.00" noise="58.84" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779260093_1779260094_1779260095_1779260096_10_0" pos="3.07" speed="1.91" angle="179.89" x="1951.89" y="2782.26"/>
+    </timestep>
+    <timestep time="813.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2645.74" CO="125.71" HC="0.63" NOx="1.15" PMx="0.05" fuel="843.91" electricity="0.00" noise="58.92" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779260093_1779260094_1779260095_1779260096_10_0" pos="5.43" speed="2.37" angle="180.19" x="1950.40" y="2780.42"/>
+    </timestep>
+    <timestep time="814.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.02" CO="118.85" HC="0.60" NOx="1.13" PMx="0.05" fuel="836.98" electricity="0.00" noise="58.90" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779260093_1779260094_1779260095_1779260096_10_0" pos="8.21" speed="2.78" angle="190.50" x="1948.65" y="2778.26"/>
+    </timestep>
+    <timestep time="815.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2969.21" CO="114.47" HC="0.59" NOx="1.27" PMx="0.06" fuel="947.08" electricity="0.00" noise="60.77" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779260093_1779260094_1779260095_1779260096_10_0" pos="11.76" speed="3.54" angle="217.85" x="1946.42" y="2775.51"/>
+    </timestep>
+    <timestep time="816.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2994.01" CO="104.84" HC="0.55" NOx="1.26" PMx="0.05" fuel="954.98" electricity="0.00" noise="60.84" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="3.36" speed="4.25" angle="210.22" x="1945.45" y="2771.48"/>
+    </timestep>
+    <timestep time="817.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3195.15" CO="98.20" HC="0.52" NOx="1.34" PMx="0.06" fuel="1019.14" electricity="0.00" noise="61.56" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="8.39" speed="5.03" angle="196.54" x="1944.83" y="2766.49"/>
+    </timestep>
+    <timestep time="818.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3183.68" CO="88.74" HC="0.48" NOx="1.31" PMx="0.05" fuel="1015.48" electricity="0.00" noise="61.58" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="14.12" speed="5.73" angle="187.07" x="1944.12" y="2760.81"/>
+    </timestep>
+    <timestep time="819.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3288.73" CO="82.08" HC="0.45" NOx="1.34" PMx="0.05" fuel="1048.98" electricity="0.00" noise="61.97" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="20.55" speed="6.43" angle="188.68" x="1943.00" y="2754.50"/>
+    </timestep>
+    <timestep time="820.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3374.26" CO="75.58" HC="0.42" NOx="1.37" PMx="0.05" fuel="1076.25" electricity="0.00" noise="62.30" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="27.67" speed="7.12" angle="193.89" x="1941.06" y="2747.66"/>
+    </timestep>
+    <timestep time="821.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2949.08" CO="61.80" HC="0.35" NOx="1.15" PMx="0.04" fuel="940.64" electricity="0.00" noise="61.59" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="35.22" speed="7.55" angle="195.86" x="1939.00" y="2740.40"/>
+    </timestep>
+    <timestep time="822.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3194.17" CO="61.00" HC="0.35" NOx="1.26" PMx="0.05" fuel="1018.81" electricity="0.00" noise="62.25" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="43.30" speed="8.08" angle="195.86" x="1936.79" y="2732.64"/>
+    </timestep>
+    <timestep time="823.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3222.20" CO="56.15" HC="0.33" NOx="1.26" PMx="0.05" fuel="1027.75" electricity="0.00" noise="62.49" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="51.88" speed="8.58" angle="195.86" x="1934.45" y="2724.39"/>
+    </timestep>
+    <timestep time="824.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3353.68" CO="53.40" HC="0.32" NOx="1.30" PMx="0.05" fuel="1069.68" electricity="0.00" noise="62.91" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="60.99" speed="9.11" angle="195.86" x="1931.96" y="2715.63"/>
+    </timestep>
+    <timestep time="825.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3118.30" CO="44.50" HC="0.27" NOx="1.18" PMx="0.04" fuel="994.61" electricity="0.00" noise="62.75" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="70.52" speed="9.52" angle="195.86" x="1929.36" y="2706.47"/>
+    </timestep>
+    <timestep time="826.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3536.61" CO="47.97" HC="0.30" NOx="1.37" PMx="0.05" fuel="1128.03" electricity="0.00" noise="63.55" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="80.58" speed="10.07" angle="194.59" x="1926.87" y="2696.73"/>
+    </timestep>
+    <timestep time="827.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3668.49" CO="45.67" HC="0.29" NOx="1.41" PMx="0.05" fuel="1170.09" electricity="0.00" noise="63.94" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="91.20" speed="10.62" angle="191.38" x="1924.77" y="2686.33"/>
+    </timestep>
+    <timestep time="828.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4331.76" CO="53.10" HC="0.34" NOx="1.71" PMx="0.07" fuel="1381.63" electricity="0.00" noise="65.00" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="102.55" speed="11.35" angle="191.38" x="1922.53" y="2675.20"/>
+    </timestep>
+    <timestep time="829.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4243.75" CO="46.12" HC="0.31" NOx="1.65" PMx="0.06" fuel="1353.56" electricity="0.00" noise="65.14" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="114.56" speed="12.01" angle="191.38" x="1920.16" y="2663.44"/>
+    </timestep>
+    <timestep time="830.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4506.06" CO="46.48" HC="0.32" NOx="1.76" PMx="0.07" fuel="1437.23" electricity="0.00" noise="65.66" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="127.25" speed="12.69" angle="189.54" x="1918.04" y="2650.94"/>
+    </timestep>
+    <timestep time="831.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3911.77" CO="30.98" HC="0.23" NOx="1.46" PMx="0.05" fuel="1247.68" electricity="0.00" noise="65.33" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="140.42" speed="13.17" angle="189.54" x="1915.86" y="2637.96"/>
+    </timestep>
+    <timestep time="832.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4807.37" CO="45.04" HC="0.32" NOx="1.87" PMx="0.08" fuel="1533.32" electricity="0.00" noise="66.38" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="154.27" speed="13.85" angle="187.91" x="1913.91" y="2624.26"/>
+    </timestep>
+    <timestep time="833.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4227.80" CO="30.19" HC="0.24" NOx="1.58" PMx="0.06" fuel="1348.47" electricity="0.00" noise="66.14" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="168.62" speed="14.35" angle="186.49" x="1912.28" y="2610.01"/>
+    </timestep>
+    <timestep time="834.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4673.63" CO="36.24" HC="0.27" NOx="1.78" PMx="0.07" fuel="1490.67" electricity="0.00" noise="66.72" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="183.54" speed="14.92" angle="185.71" x="1910.76" y="2595.18"/>
+    </timestep>
+    <timestep time="835.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="5077.48" CO="41.42" HC="0.31" NOx="1.95" PMx="0.08" fuel="1619.47" electricity="0.00" noise="67.28" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="199.09" speed="15.56" angle="184.28" x="1909.60" y="2579.68"/>
+    </timestep>
+    <timestep time="836.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="5141.10" CO="40.04" HC="0.30" NOx="1.97" PMx="0.08" fuel="1639.77" electricity="0.00" noise="67.58" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="215.26" speed="16.16" angle="184.28" x="1908.40" y="2563.57"/>
+    </timestep>
+    <timestep time="837.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="5931.79" CO="53.47" HC="0.39" NOx="2.33" PMx="0.10" fuel="1891.95" electricity="0.00" noise="68.38" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="232.16" speed="16.90" angle="183.78" x="1907.27" y="2546.72"/>
+    </timestep>
+    <timestep time="838.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="65.40" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="248.57" speed="16.41" angle="183.78" x="1906.19" y="2530.35"/>
+    </timestep>
+    <timestep time="839.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="59.33" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779258548_1779258550_1779258563_1779258566_#2more_1_0" pos="1.90" speed="11.91" angle="183.89" x="1905.38" y="2518.48"/>
+    </timestep>
+    <timestep time="840.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="53.25" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779258548_1779258550_1779258563_1779258566_#2more_1_0" pos="9.31" speed="7.41" angle="184.31" x="1904.81" y="2511.10"/>
+    </timestep>
+    <timestep time="841.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3276.93" CO="63.79" HC="0.36" NOx="1.30" PMx="0.05" fuel="1045.21" electricity="0.00" noise="62.36" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779258548_1779258550_1779258563_1779258566_#2more_18_0" pos="4.80" speed="7.98" angle="184.52" x="1904.17" y="2503.15"/>
+    </timestep>
+    <timestep time="842.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3412.19" CO="60.20" HC="0.35" NOx="1.35" PMx="0.05" fuel="1088.35" electricity="0.00" noise="62.80" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779258548_1779258550_1779258563_1779258566_#2more_18_0" pos="13.37" speed="8.57" angle="184.01" x="1903.60" y="2494.60"/>
+    </timestep>
+    <timestep time="843.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3689.19" CO="59.13" HC="0.35" NOx="1.46" PMx="0.06" fuel="1176.69" electricity="0.00" noise="63.46" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779258548_1779258550_1779258563_1779258566_#2more_18_0" pos="22.60" speed="9.23" angle="182.53" x="1903.23" y="2485.38"/>
+    </timestep>
+    <timestep time="844.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3293.58" CO="46.39" HC="0.29" NOx="1.26" PMx="0.04" fuel="1050.51" electricity="0.00" noise="63.07" route="bus_route" type="BUS" waiting="0.00" lane="166481853_0" pos="2.82" speed="9.70" angle="178.79" x="1903.47" y="2475.74"/>
+    </timestep>
+    <timestep time="845.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4128.44" CO="56.76" HC="0.35" NOx="1.64" PMx="0.06" fuel="1316.79" electricity="0.00" noise="64.45" route="bus_route" type="BUS" waiting="0.00" lane="166481853_0" pos="13.26" speed="10.44" angle="175.77" x="1904.23" y="2465.53"/>
+    </timestep>
+    <timestep time="846.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3732.79" CO="43.79" HC="0.29" NOx="1.43" PMx="0.05" fuel="1190.60" electricity="0.00" noise="64.18" route="bus_route" type="BUS" waiting="0.00" lane="166481853_0" pos="24.25" speed="10.99" angle="175.77" x="1905.02" y="2454.78"/>
+    </timestep>
+    <timestep time="847.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3435.66" CO="34.13" HC="0.23" NOx="1.28" PMx="0.04" fuel="1095.83" electricity="0.00" noise="64.04" route="bus_route" type="BUS" waiting="0.00" lane="166481853_0" pos="35.67" speed="11.42" angle="176.36" x="1905.73" y="2443.60"/>
+    </timestep>
+    <timestep time="848.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3621.32" CO="34.28" HC="0.24" NOx="1.36" PMx="0.05" fuel="1155.04" electricity="0.00" noise="64.45" route="bus_route" type="BUS" waiting="0.00" lane="166481853_0" pos="47.55" speed="11.88" angle="180.49" x="1905.63" y="2431.95"/>
+    </timestep>
+    <timestep time="849.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4254.39" CO="42.66" HC="0.29" NOx="1.64" PMx="0.06" fuel="1356.96" electricity="0.00" noise="65.35" route="bus_route" type="BUS" waiting="0.00" lane="166481853_0" pos="60.05" speed="12.50" angle="180.49" x="1905.52" y="2419.69"/>
+    </timestep>
+    <timestep time="850.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4815.42" CO="49.13" HC="0.34" NOx="1.89" PMx="0.08" fuel="1535.89" electricity="0.00" noise="66.16" route="bus_route" type="BUS" waiting="0.00" lane="166481853_0" pos="73.28" speed="13.24" angle="179.32" x="1905.65" y="2406.71"/>
+    </timestep>
+    <timestep time="851.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="61.08" route="bus_route" type="BUS" waiting="0.00" lane="166481853_0" pos="85.38" speed="12.10" angle="177.59" x="1906.15" y="2394.85"/>
+    </timestep>
+    <timestep time="852.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="53.57" route="bus_route" type="BUS" waiting="0.00" lane="166481853_0" pos="92.98" speed="7.60" angle="177.59" x="1906.46" y="2387.40"/>
+    </timestep>
+    <timestep time="853.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="43.65" route="bus_route" type="BUS" waiting="0.00" lane="166481853_0" pos="96.08" speed="3.10" angle="177.59" x="1906.59" y="2384.36"/>
+    </timestep>
+    <timestep time="854.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2611.65" CO="164.26" HC="0.81" NOx="1.20" PMx="0.07" fuel="833.05" electricity="0.00" noise="42.36" route="bus_route" type="BUS" waiting="1.00" lane="166481853_0" pos="96.10" speed="0.01" angle="177.59" x="1906.59" y="2384.35"/>
+    </timestep>
+    <timestep time="855.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2623.93" CO="164.66" HC="0.81" NOx="1.20" PMx="0.07" fuel="836.97" electricity="0.00" noise="55.91" route="bus_route" type="BUS" waiting="2.00" lane="166481853_0" pos="96.10" speed="0.01" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="856.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.11" CO="164.68" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.03" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="3.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="857.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.69" CO="164.77" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.21" electricity="0.00" noise="55.92" route="bus_route" type="BUS" waiting="4.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="858.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.70" CO="164.77" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="5.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="859.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="6.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="860.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="7.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="861.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="8.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="862.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="9.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="863.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="10.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="864.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="11.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="865.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="12.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="866.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="13.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="867.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="14.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="868.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="15.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="869.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="16.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="870.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="17.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="871.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="18.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="872.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="19.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="873.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="20.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="874.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="21.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="875.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="22.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="876.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="23.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="877.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="24.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="878.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="25.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="879.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="26.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="880.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="27.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="881.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="28.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="882.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="29.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="883.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="30.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="884.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="31.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="885.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="32.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="886.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="33.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="887.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="34.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="888.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="35.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="889.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="36.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="890.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="37.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="891.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="38.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="892.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="39.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="893.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="40.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="894.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="41.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="895.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="42.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="896.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="43.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="897.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="44.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="898.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="45.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="899.00">
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="46.00" lane="166481853_0" pos="96.11" speed="0.00" angle="177.59" x="1906.59" y="2384.34"/>
+    </timestep>
+    <timestep time="900.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="12.10" speed="0.00" angle="226.74" x="2146.22" y="3060.00"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2650.66" CO="154.25" HC="0.76" NOx="1.20" PMx="0.06" fuel="845.49" electricity="0.00" noise="58.97" route="bus_route" type="BUS" waiting="0.00" lane="166481853_0" pos="96.74" speed="0.64" angle="177.59" x="1906.62" y="2383.71"/>
+    </timestep>
+    <timestep time="901.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2667.23" CO="153.36" HC="0.76" NOx="1.20" PMx="0.06" fuel="850.78" electricity="0.00" noise="59.32" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="12.81" speed="0.71" angle="226.74" x="2145.71" y="3059.52"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2737.63" CO="143.17" HC="0.72" NOx="1.22" PMx="0.06" fuel="873.23" electricity="0.00" noise="59.84" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_1_0" pos="1.03" speed="1.40" angle="179.49" x="1906.28" y="2382.37"/>
+    </timestep>
+    <timestep time="902.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2681.68" CO="143.19" HC="0.71" NOx="1.19" PMx="0.06" fuel="855.38" electricity="0.00" noise="59.19" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="14.14" speed="1.33" angle="226.74" x="2144.74" y="3058.60"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2657.06" CO="133.28" HC="0.67" NOx="1.17" PMx="0.06" fuel="847.52" electricity="0.00" noise="58.92" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_1_0" pos="2.94" speed="1.91" angle="181.91" x="1905.87" y="2380.51"/>
+    </timestep>
+    <timestep time="903.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2605.15" CO="135.02" HC="0.67" NOx="1.15" PMx="0.06" fuel="830.97" electricity="0.00" noise="58.39" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="15.87" speed="1.73" angle="226.74" x="2143.47" y="3057.42"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2812.65" CO="125.48" HC="0.64" NOx="1.22" PMx="0.06" fuel="897.15" electricity="0.00" noise="60.05" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_1_0" pos="5.54" speed="2.60" angle="185.21" x="1905.30" y="2377.97"/>
+    </timestep>
+    <timestep time="904.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2721.14" CO="128.02" HC="0.65" NOx="1.19" PMx="0.06" fuel="867.96" electricity="0.00" noise="59.45" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="18.19" speed="2.32" angle="226.74" x="2141.78" y="3055.82"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2654.61" CO="115.43" HC="0.59" NOx="1.13" PMx="0.05" fuel="846.74" electricity="0.00" noise="59.15" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_1_0" pos="8.59" speed="3.05" angle="189.03" x="1904.63" y="2375.00"/>
+    </timestep>
+    <timestep time="905.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2888.88" CO="120.10" HC="0.61" NOx="1.25" PMx="0.06" fuel="921.46" electricity="0.00" noise="60.43" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="21.24" speed="3.06" angle="226.74" x="2139.55" y="3053.73"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2769.07" CO="109.68" HC="0.56" NOx="1.17" PMx="0.05" fuel="883.24" electricity="0.00" noise="59.84" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_1_0" pos="12.18" speed="3.59" angle="190.49" x="1904.29" y="2371.44"/>
+    </timestep>
+    <timestep time="906.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2681.50" CO="109.05" HC="0.56" NOx="1.14" PMx="0.05" fuel="855.31" electricity="0.00" noise="59.42" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="24.75" speed="3.51" angle="226.33" x="2137.05" y="3051.26"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2867.15" CO="103.13" HC="0.53" NOx="1.20" PMx="0.05" fuel="914.52" electricity="0.00" noise="60.35" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_1_0" pos="16.36" speed="4.18" angle="187.13" x="1904.07" y="2367.26"/>
+    </timestep>
+    <timestep time="907.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2892.93" CO="104.39" HC="0.54" NOx="1.22" PMx="0.05" fuel="922.75" electricity="0.00" noise="60.44" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="28.89" speed="4.13" angle="224.34" x="2134.34" y="3048.13"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2778.75" CO="94.55" HC="0.49" NOx="1.15" PMx="0.05" fuel="886.33" electricity="0.00" noise="60.13" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_1_0" pos="21.03" speed="4.67" angle="183.37" x="1903.83" y="2362.60"/>
+    </timestep>
+    <timestep time="908.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2810.33" CO="95.53" HC="0.50" NOx="1.17" PMx="0.05" fuel="896.40" electricity="0.00" noise="60.23" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="33.53" speed="4.64" angle="222.11" x="2131.29" y="3044.62"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2926.43" CO="89.98" HC="0.48" NOx="1.20" PMx="0.05" fuel="933.43" electricity="0.00" noise="60.75" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_1_0" pos="26.26" speed="5.23" angle="181.74" x="1903.82" y="2357.37"/>
+    </timestep>
+    <timestep time="909.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3140.22" CO="92.78" HC="0.49" NOx="1.30" PMx="0.05" fuel="1001.61" electricity="0.00" noise="61.41" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="38.88" speed="5.35" angle="220.97" x="2127.77" y="3040.57"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3040.21" CO="84.54" HC="0.45" NOx="1.24" PMx="0.05" fuel="969.71" electricity="0.00" noise="61.21" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_1_0" pos="32.08" speed="5.83" angle="180.11" x="1903.86" y="2351.55"/>
+    </timestep>
+    <timestep time="910.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3067.14" CO="83.46" HC="0.45" NOx="1.25" PMx="0.05" fuel="978.30" electricity="0.00" noise="61.32" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="44.83" speed="5.95" angle="220.97" x="2123.86" y="3036.07"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3450.90" CO="83.28" HC="0.46" NOx="1.42" PMx="0.06" fuel="1100.70" electricity="0.00" noise="62.38" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_1_0" pos="38.69" speed="6.60" angle="179.64" x="1903.90" y="2344.94"/>
+    </timestep>
+    <timestep time="911.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3465.74" CO="82.08" HC="0.45" NOx="1.42" PMx="0.06" fuel="1105.43" electricity="0.00" noise="62.43" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="51.56" speed="6.73" angle="220.97" x="2119.44" y="3030.98"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3247.58" CO="71.81" HC="0.40" NOx="1.30" PMx="0.05" fuel="1035.85" electricity="0.00" noise="62.06" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="1.92" speed="7.22" angle="179.94" x="1903.88" y="2337.73"/>
+    </timestep>
+    <timestep time="912.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3229.04" CO="70.19" HC="0.39" NOx="1.29" PMx="0.05" fuel="1029.94" electricity="0.00" noise="62.06" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="58.88" speed="7.32" angle="220.39" x="2114.73" y="3025.36"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3391.62" CO="67.54" HC="0.38" NOx="1.35" PMx="0.05" fuel="1081.79" electricity="0.00" noise="62.53" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="9.77" speed="7.85" angle="181.12" x="1903.68" y="2329.90"/>
+    </timestep>
+    <timestep time="913.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3636.51" CO="70.30" HC="0.40" NOx="1.46" PMx="0.06" fuel="1159.89" electricity="0.00" noise="63.04" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="66.94" speed="8.06" angle="218.14" x="2109.80" y="3018.96"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3732.13" CO="66.62" HC="0.39" NOx="1.50" PMx="0.06" fuel="1190.39" electricity="0.00" noise="63.33" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="18.36" speed="8.59" angle="181.46" x="1903.46" y="2321.33"/>
+    </timestep>
+    <timestep time="914.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3504.43" CO="60.90" HC="0.36" NOx="1.39" PMx="0.05" fuel="1117.77" electricity="0.00" noise="62.99" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="75.63" speed="8.68" angle="217.62" x="2104.49" y="3012.07"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3534.14" CO="56.38" HC="0.34" NOx="1.39" PMx="0.05" fuel="1127.24" electricity="0.00" noise="63.21" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="27.55" speed="9.19" angle="181.46" x="1903.23" y="2312.17"/>
+    </timestep>
+    <timestep time="915.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3334.22" CO="52.13" HC="0.31" NOx="1.29" PMx="0.05" fuel="1063.48" electricity="0.00" noise="62.91" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="84.83" speed="9.20" angle="217.62" x="2098.86" y="3004.77"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3697.56" CO="53.69" HC="0.33" NOx="1.45" PMx="0.05" fuel="1179.36" electricity="0.00" noise="63.67" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="37.36" speed="9.81" angle="181.63" x="1902.95" y="2302.38"/>
+    </timestep>
+    <timestep time="916.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3462.80" CO="49.55" HC="0.30" NOx="1.34" PMx="0.05" fuel="1104.49" electricity="0.00" noise="63.32" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="94.56" speed="9.74" angle="217.62" x="2092.91" y="2997.05"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3798.44" CO="50.09" HC="0.32" NOx="1.48" PMx="0.06" fuel="1211.53" electricity="0.00" noise="64.03" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="47.78" speed="10.42" angle="181.67" x="1902.64" y="2291.98"/>
+    </timestep>
+    <timestep time="917.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3660.06" CO="48.29" HC="0.30" NOx="1.42" PMx="0.05" fuel="1167.40" electricity="0.00" noise="63.81" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="104.87" speed="10.31" angle="217.32" x="2086.65" y="2988.83"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3484.70" CO="39.49" HC="0.26" NOx="1.32" PMx="0.05" fuel="1111.47" electricity="0.00" noise="63.85" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="58.68" speed="10.90" angle="181.67" x="1902.32" y="2281.11"/>
+    </timestep>
+    <timestep time="918.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3746.02" CO="45.06" HC="0.29" NOx="1.44" PMx="0.05" fuel="1194.82" electricity="0.00" noise="64.14" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="115.74" speed="10.87" angle="217.04" x="2080.09" y="2980.13"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4426.51" CO="52.75" HC="0.34" NOx="1.75" PMx="0.07" fuel="1411.85" electricity="0.00" noise="65.20" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="70.31" speed="11.64" angle="181.67" x="1901.99" y="2269.50"/>
+    </timestep>
+    <timestep time="919.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="4586.64" CO="55.83" HC="0.36" NOx="1.82" PMx="0.07" fuel="1462.93" electricity="0.00" noise="65.39" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="127.41" speed="11.67" angle="217.04" x="2073.05" y="2970.80"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4381.92" CO="46.66" HC="0.31" NOx="1.71" PMx="0.07" fuel="1397.63" electricity="0.00" noise="65.40" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="82.63" speed="12.31" angle="181.66" x="1901.63" y="2257.22"/>
+    </timestep>
+    <timestep time="920.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3770.76" CO="35.23" HC="0.25" NOx="1.42" PMx="0.05" fuel="1202.70" electricity="0.00" noise="64.73" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="139.57" speed="12.16" angle="217.70" x="2065.60" y="2961.17"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3985.69" CO="34.79" HC="0.25" NOx="1.51" PMx="0.06" fuel="1271.25" electricity="0.00" noise="65.24" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="95.46" speed="12.83" angle="181.66" x="1901.26" y="2244.42"/>
+    </timestep>
+    <timestep time="921.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3830.78" CO="32.93" HC="0.24" NOx="1.44" PMx="0.05" fuel="1221.85" electricity="0.00" noise="65.01" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="152.21" speed="12.64" angle="217.72" x="2057.85" y="2951.15"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4099.44" CO="33.63" HC="0.25" NOx="1.55" PMx="0.06" fuel="1307.53" electricity="0.00" noise="65.57" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="108.81" speed="13.35" angle="181.66" x="1900.87" y="2231.10"/>
+    </timestep>
+    <timestep time="922.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="4852.20" CO="48.96" HC="0.34" NOx="1.90" PMx="0.08" fuel="1547.62" electricity="0.00" noise="66.24" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="165.58" speed="13.38" angle="217.72" x="2049.66" y="2940.55"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3838.66" CO="25.59" HC="0.21" NOx="1.41" PMx="0.05" fuel="1224.36" electricity="0.00" noise="65.56" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="122.58" speed="13.77" angle="181.46" x="1900.51" y="2217.37"/>
+    </timestep>
+    <timestep time="923.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3925.77" CO="27.10" HC="0.21" NOx="1.45" PMx="0.05" fuel="1252.14" electricity="0.00" noise="65.65" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="179.40" speed="13.82" angle="214.71" x="2041.71" y="2929.22"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4238.18" CO="30.83" HC="0.24" NOx="1.59" PMx="0.06" fuel="1351.78" electricity="0.00" noise="66.11" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="136.85" speed="14.27" angle="181.18" x="1900.22" y="2203.12"/>
+    </timestep>
+    <timestep time="924.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3984.86" CO="25.73" HC="0.21" NOx="1.47" PMx="0.05" fuel="1270.99" electricity="0.00" noise="65.91" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="193.66" speed="14.25" angle="214.78" x="2033.56" y="2917.49"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="5327.13" CO="49.24" HC="0.35" NOx="2.09" PMx="0.09" fuel="1699.10" electricity="0.00" noise="67.24" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="151.86" speed="15.01" angle="181.18" x="1899.91" y="2188.15"/>
+    </timestep>
+    <timestep time="925.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="5331.33" CO="49.42" HC="0.35" NOx="2.09" PMx="0.09" fuel="1700.44" electricity="0.00" noise="67.24" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="208.65" speed="14.99" angle="214.59" x="2025.03" y="2905.13"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4489.59" CO="29.57" HC="0.24" NOx="1.68" PMx="0.07" fuel="1431.97" electricity="0.00" noise="66.86" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="167.36" speed="15.50" angle="181.18" x="1899.59" y="2172.68"/>
+    </timestep>
+    <timestep time="926.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="5110.18" CO="41.75" HC="0.31" NOx="1.97" PMx="0.08" fuel="1629.90" electricity="0.00" noise="67.33" route="bus_route" type="BUS" waiting="0.00" lane="166458245#0_0" pos="224.28" speed="15.63" angle="211.70" x="2016.80" y="2891.81"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="5570.93" CO="48.70" HC="0.35" NOx="2.17" PMx="0.09" fuel="1776.86" electricity="0.00" noise="67.88" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="183.57" speed="16.21" angle="181.18" x="1899.26" y="2156.51"/>
+    </timestep>
+    <timestep time="927.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="5271.99" CO="42.33" HC="0.32" NOx="2.03" PMx="0.09" fuel="1681.51" electricity="0.00" noise="67.70" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="4.24" speed="16.26" angle="211.70" x="2008.14" y="2877.79"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="5043.67" CO="35.71" HC="0.28" NOx="1.91" PMx="0.08" fuel="1608.69" electricity="0.00" noise="67.77" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="200.33" speed="16.76" angle="181.19" x="1898.91" y="2139.79"/>
+    </timestep>
+    <timestep time="928.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="6127.33" CO="57.03" HC="0.41" NOx="2.41" PMx="0.11" fuel="1954.32" electricity="0.00" noise="68.55" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="21.27" speed="17.04" angle="211.59" x="1998.77" y="2862.56"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="6308.93" CO="59.16" HC="0.42" NOx="2.49" PMx="0.11" fuel="2012.24" electricity="0.00" noise="68.85" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="217.86" speed="17.53" angle="181.25" x="1898.53" y="2122.30"/>
+    </timestep>
+    <timestep time="929.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="5475.97" CO="41.74" HC="0.32" NOx="2.09" PMx="0.09" fuel="1746.57" electricity="0.00" noise="68.40" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="38.90" speed="17.62" angle="211.57" x="1989.08" y="2846.80"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="6050.07" CO="51.99" HC="0.38" NOx="2.35" PMx="0.11" fuel="1929.68" electricity="0.00" noise="68.96" route="bus_route" type="BUS" waiting="0.00" lane="167449523#0_0" pos="236.06" speed="18.20" angle="181.25" x="1898.14" y="2104.14"/>
+    </timestep>
+    <timestep time="930.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="5792.00" CO="46.59" HC="0.35" NOx="2.23" PMx="0.10" fuel="1847.37" electricity="0.00" noise="68.83" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="57.13" speed="18.24" angle="211.23" x="1979.15" y="2830.44"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="6663.52" CO="63.02" HC="0.45" NOx="2.62" PMx="0.12" fuel="2125.34" electricity="0.00" noise="69.58" route="bus_route" type="BUS" waiting="0.00" lane=":3779336521_0_0" pos="4.86" speed="18.95" angle="181.26" x="1897.72" y="2085.22"/>
+    </timestep>
+    <timestep time="931.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="6081.39" CO="51.18" HC="0.38" NOx="2.35" PMx="0.11" fuel="1939.67" electricity="0.00" noise="69.24" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="76.00" speed="18.87" angle="211.39" x="1968.85" y="2813.52"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="6486.86" CO="58.34" HC="0.42" NOx="2.52" PMx="0.12" fuel="2068.99" electricity="0.00" noise="69.75" route="bus_route" type="BUS" waiting="0.00" lane="167449523#1_0" pos="15.07" speed="19.61" angle="180.73" x="1897.40" y="2065.77"/>
+    </timestep>
+    <timestep time="932.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="64.16" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="92.65" speed="16.65" angle="215.76" x="1958.64" y="2799.35"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="62.51" route="bus_route" type="BUS" waiting="0.00" lane="167449523#1_0" pos="30.18" speed="15.11" angle="180.18" x="1897.35" y="2050.81"/>
+    </timestep>
+    <timestep time="933.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="59.59" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="104.80" speed="12.15" angle="215.76" x="1951.19" y="2789.00"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="57.82" route="bus_route" type="BUS" waiting="0.00" lane="167449523#1_0" pos="40.79" speed="10.61" angle="180.18" x="1897.32" y="2040.31"/>
+    </timestep>
+    <timestep time="934.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="53.80" route="bus_route" type="BUS" waiting="0.00" lane="166458245#1_0" pos="112.53" speed="7.73" angle="180.56" x="1953.73" y="2784.67"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="50.92" route="bus_route" type="BUS" waiting="0.00" lane="167449523#1_0" pos="46.90" speed="6.11" angle="189.99" x="1895.31" y="2034.62"/>
+    </timestep>
+    <timestep time="935.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="56.15" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779260093_1779260094_1779260095_1779260096_10_0" pos="6.63" speed="6.71" angle="180.34" x="1949.65" y="2779.49"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="40.29" route="bus_route" type="BUS" waiting="0.00" lane="167449523#1_0" pos="48.75" speed="1.84" angle="193.13" x="1894.67" y="2032.91"/>
+    </timestep>
+    <timestep time="936.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="58.58" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="0.50" speed="6.51" angle="217.77" x="1945.80" y="2774.33"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2750.23" CO="126.36" HC="0.64" NOx="1.20" PMx="0.06" fuel="877.24" electricity="0.00" noise="59.65" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_429410630_9913958185_1_0" pos="1.35" speed="2.46" angle="196.34" x="1894.01" y="2030.56"/>
+    </timestep>
+    <timestep time="937.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3250.21" CO="72.86" HC="0.41" NOx="1.31" PMx="0.05" fuel="1036.69" electricity="0.00" noise="62.04" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="7.63" speed="7.13" angle="198.62" x="1944.92" y="2767.26"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2860.06" CO="118.06" HC="0.60" NOx="1.23" PMx="0.06" fuel="912.27" electricity="0.00" noise="60.26" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_429410630_9913958185_1_0" pos="4.50" speed="3.15" angle="197.27" x="1893.35" y="2027.48"/>
+    </timestep>
+    <timestep time="938.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2958.51" CO="61.79" HC="0.35" NOx="1.16" PMx="0.04" fuel="943.65" electricity="0.00" noise="61.62" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="15.20" speed="7.57" angle="187.07" x="1943.99" y="2759.75"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2882.02" CO="109.00" HC="0.56" NOx="1.22" PMx="0.05" fuel="919.27" electricity="0.00" noise="60.37" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_429410630_9913958185_1_0" pos="8.30" speed="3.80" angle="186.40" x="1894.28" y="2023.82"/>
+    </timestep>
+    <timestep time="939.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3367.96" CO="63.55" HC="0.37" NOx="1.34" PMx="0.05" fuel="1074.24" electricity="0.00" noise="62.59" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="23.37" speed="8.17" angle="190.74" x="1942.23" y="2751.80"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2862.92" CO="100.41" HC="0.52" NOx="1.20" PMx="0.05" fuel="913.17" electricity="0.00" noise="60.36" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_429410630_9913958185_1_0" pos="12.67" speed="4.37" angle="169.93" x="1896.17" y="2019.88"/>
+    </timestep>
+    <timestep time="940.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3461.03" CO="59.12" HC="0.35" NOx="1.36" PMx="0.05" fuel="1103.92" electricity="0.00" noise="62.95" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="32.14" speed="8.77" angle="195.86" x="1939.84" y="2743.37"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3168.34" CO="96.40" HC="0.51" NOx="1.32" PMx="0.06" fuel="1010.58" electricity="0.00" noise="61.48" route="bus_route" type="BUS" waiting="0.00" lane="167449523#2_0" pos="1.30" speed="5.12" angle="159.10" x="1897.86" y="2015.08"/>
+    </timestep>
+    <timestep time="941.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3635.15" CO="56.38" HC="0.34" NOx="1.43" PMx="0.05" fuel="1159.46" electricity="0.00" noise="63.43" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="41.53" speed="9.40" angle="195.86" x="1937.27" y="2734.33"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3176.73" CO="87.56" HC="0.47" NOx="1.31" PMx="0.05" fuel="1013.26" electricity="0.00" noise="61.58" route="bus_route" type="BUS" waiting="0.00" lane="167449523#2_0" pos="7.11" speed="5.81" angle="162.50" x="1899.34" y="2009.60"/>
+    </timestep>
+    <timestep time="942.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3203.26" CO="43.36" HC="0.27" NOx="1.21" PMx="0.04" fuel="1021.71" electricity="0.00" noise="63.01" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="51.36" speed="9.82" angle="195.86" x="1934.59" y="2724.89"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3048.76" CO="77.86" HC="0.42" NOx="1.23" PMx="0.05" fuel="972.44" electricity="0.00" noise="61.38" route="bus_route" type="BUS" waiting="0.00" lane="167449523#2_0" pos="13.48" speed="6.37" angle="164.90" x="1900.96" y="2003.59"/>
+    </timestep>
+    <timestep time="943.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="4046.27" CO="54.30" HC="0.34" NOx="1.59" PMx="0.06" fuel="1290.58" electricity="0.00" noise="64.38" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="61.88" speed="10.52" angle="195.86" x="1931.71" y="2714.77"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3249.06" CO="74.38" HC="0.41" NOx="1.31" PMx="0.05" fuel="1036.32" electricity="0.00" noise="62.01" route="bus_route" type="BUS" waiting="0.00" lane="167449523#2_0" pos="20.48" speed="7.00" angle="164.90" x="1902.74" y="1996.98"/>
+    </timestep>
+    <timestep time="944.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="4259.39" CO="52.53" HC="0.34" NOx="1.68" PMx="0.07" fuel="1358.55" electricity="0.00" noise="64.88" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="73.12" speed="11.24" angle="195.86" x="1928.64" y="2703.96"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3326.68" CO="68.79" HC="0.39" NOx="1.33" PMx="0.05" fuel="1061.08" electricity="0.00" noise="62.34" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="5.86" speed="7.62" angle="168.52" x="1903.95" y="1989.69"/>
+    </timestep>
+    <timestep time="945.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="4032.91" CO="43.07" HC="0.29" NOx="1.55" PMx="0.06" fuel="1286.32" electricity="0.00" noise="64.85" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="84.96" speed="11.84" angle="192.95" x="1926.00" y="2692.44"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3298.97" CO="61.94" HC="0.36" NOx="1.30" PMx="0.05" fuel="1052.24" electricity="0.00" noise="62.47" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="14.05" speed="8.19" angle="171.98" x="1905.09" y="1981.57"/>
+    </timestep>
+    <timestep time="946.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="4103.43" CO="40.15" HC="0.28" NOx="1.57" PMx="0.06" fuel="1308.81" electricity="0.00" noise="65.17" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="97.38" speed="12.42" angle="191.38" x="1923.55" y="2680.27"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3081.72" CO="52.77" HC="0.31" NOx="1.19" PMx="0.04" fuel="982.94" electricity="0.00" noise="62.29" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="22.68" speed="8.63" angle="171.98" x="1906.30" y="1973.00"/>
+    </timestep>
+    <timestep time="947.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="4836.34" CO="50.03" HC="0.34" NOx="1.90" PMx="0.08" fuel="1542.56" electricity="0.00" noise="66.15" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="110.55" speed="13.16" angle="191.38" x="1920.95" y="2667.37"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3574.45" CO="56.65" HC="0.34" NOx="1.40" PMx="0.05" fuel="1140.10" electricity="0.00" noise="63.29" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="31.92" speed="9.24" angle="171.98" x="1907.59" y="1963.83"/>
+    </timestep>
+    <timestep time="948.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="4817.82" CO="45.25" HC="0.32" NOx="1.87" PMx="0.08" fuel="1536.66" electricity="0.00" noise="66.39" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="124.40" speed="13.85" angle="189.96" x="1918.52" y="2653.75"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3922.83" CO="57.07" HC="0.35" NOx="1.55" PMx="0.06" fuel="1251.21" electricity="0.00" noise="64.02" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="41.86" speed="9.94" angle="171.98" x="1908.98" y="1953.97"/>
+    </timestep>
+    <timestep time="949.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="4297.26" CO="31.52" HC="0.24" NOx="1.62" PMx="0.06" fuel="1370.63" electricity="0.00" noise="66.20" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="138.76" speed="14.36" angle="189.54" x="1916.14" y="2639.59"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4025.29" CO="52.97" HC="0.33" NOx="1.58" PMx="0.06" fuel="1283.89" electricity="0.00" noise="64.38" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="52.49" speed="10.63" angle="171.98" x="1910.47" y="1943.42"/>
+    </timestep>
+    <timestep time="950.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="5302.33" CO="48.32" HC="0.35" NOx="2.07" PMx="0.09" fuel="1691.19" electricity="0.00" noise="67.25" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="153.85" speed="15.09" angle="188.02" x="1913.95" y="2624.68"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3652.67" CO="40.87" HC="0.27" NOx="1.39" PMx="0.05" fuel="1165.04" electricity="0.00" noise="64.15" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="63.63" speed="11.14" angle="171.98" x="1912.03" y="1932.36"/>
+    </timestep>
+    <timestep time="951.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="5353.60" CO="46.10" HC="0.34" NOx="2.08" PMx="0.09" fuel="1707.54" electricity="0.00" noise="67.56" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="169.63" speed="15.78" angle="186.49" x="1912.17" y="2609.01"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3959.61" CO="42.47" HC="0.28" NOx="1.52" PMx="0.06" fuel="1262.94" electricity="0.00" noise="64.73" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="75.35" speed="11.72" angle="171.98" x="1913.67" y="1920.73"/>
+    </timestep>
+    <timestep time="952.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="6065.39" CO="57.44" HC="0.41" NOx="2.40" PMx="0.11" fuel="1934.57" electricity="0.00" noise="68.34" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="186.20" speed="16.57" angle="185.21" x="1910.56" y="2592.53"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3697.77" CO="33.48" HC="0.24" NOx="1.39" PMx="0.05" fuel="1179.42" electricity="0.00" noise="64.68" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="87.54" speed="12.19" angle="171.98" x="1915.37" y="1908.63"/>
+    </timestep>
+    <timestep time="953.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="4857.08" CO="30.80" HC="0.26" NOx="1.81" PMx="0.08" fuel="1549.18" electricity="0.00" noise="67.80" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="203.25" speed="17.06" angle="184.28" x="1909.29" y="2575.53"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3672.18" CO="29.77" HC="0.22" NOx="1.36" PMx="0.05" fuel="1171.26" electricity="0.00" noise="64.86" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="100.17" speed="12.63" angle="172.23" x="1917.08" y="1896.09"/>
+    </timestep>
+    <timestep time="954.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="5314.43" CO="38.45" HC="0.30" NOx="2.02" PMx="0.09" fuel="1695.05" electricity="0.00" noise="68.30" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="220.86" speed="17.61" angle="184.13" x="1908.01" y="2557.98"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3681.81" CO="27.07" HC="0.21" NOx="1.36" PMx="0.05" fuel="1174.33" electricity="0.00" noise="65.08" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="113.21" speed="13.04" angle="172.61" x="1918.77" y="1883.13"/>
+    </timestep>
+    <timestep time="955.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="5787.14" CO="46.53" HC="0.35" NOx="2.23" PMx="0.10" fuel="1845.82" electricity="0.00" noise="68.82" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="239.09" speed="18.22" angle="183.78" x="1906.81" y="2539.81"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4972.92" CO="48.89" HC="0.34" NOx="1.95" PMx="0.08" fuel="1586.13" electricity="0.00" noise="66.50" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="126.99" speed="13.78" angle="172.61" x="1920.54" y="1869.43"/>
+    </timestep>
+    <timestep time="956.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="61.91" route="bus_route" type="BUS" waiting="0.00" lane="166479614_0" pos="253.49" speed="14.40" angle="183.78" x="1905.86" y="2525.45"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="3964.94" CO="25.56" HC="0.21" NOx="1.46" PMx="0.05" fuel="1264.63" electricity="0.00" noise="65.88" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="141.20" speed="14.21" angle="172.61" x="1922.37" y="1855.31"/>
+    </timestep>
+    <timestep time="957.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="57.49" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779258548_1779258550_1779258563_1779258566_#2more_1_0" pos="5.23" speed="10.31" angle="184.08" x="1905.12" y="2515.17"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="4965.49" CO="42.54" HC="0.31" NOx="1.92" PMx="0.08" fuel="1583.76" electricity="0.00" noise="66.91" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="156.07" speed="14.87" angle="172.61" x="1924.29" y="1840.53"/>
+    </timestep>
+    <timestep time="958.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="50.32" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779258548_1779258550_1779258563_1779258566_#2more_1_0" pos="11.04" speed="5.81" angle="184.43" x="1904.67" y="2509.38"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="5494.68" CO="49.81" HC="0.36" NOx="2.15" PMx="0.09" fuel="1752.54" electricity="0.00" noise="67.59" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="171.67" speed="15.60" angle="172.61" x="1926.30" y="1825.03"/>
+    </timestep>
+    <timestep time="959.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2798.67" CO="74.48" HC="0.40" NOx="1.12" PMx="0.04" fuel="892.68" electricity="0.00" noise="60.73" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779258548_1779258550_1779258563_1779258566_#2more_18_0" pos="4.78" speed="6.23" angle="184.52" x="1904.17" y="2503.17"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="5932.76" CO="55.46" HC="0.39" NOx="2.34" PMx="0.10" fuel="1892.26" electricity="0.00" noise="68.18" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="188.05" speed="16.38" angle="170.25" x="1928.90" y="1808.84"/>
+    </timestep>
+    <timestep time="960.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3144.85" CO="74.45" HC="0.41" NOx="1.27" PMx="0.05" fuel="1003.09" electricity="0.00" noise="61.73" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779258548_1779258550_1779258563_1779258566_#2more_18_0" pos="11.59" speed="6.81" angle="184.19" x="1903.71" y="2496.37"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="5770.67" CO="49.57" HC="0.36" NOx="2.25" PMx="0.10" fuel="1840.56" electricity="0.00" noise="68.34" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="205.12" speed="17.07" angle="166.11" x="1933.01" y="1792.24"/>
+    </timestep>
+    <timestep time="961.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3028.04" CO="66.28" HC="0.37" NOx="1.20" PMx="0.04" fuel="965.83" electricity="0.00" noise="61.65" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779258548_1779258550_1779258563_1779258566_#2more_18_0" pos="18.89" speed="7.30" angle="183.43" x="1903.29" y="2489.08"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="6232.79" CO="56.79" HC="0.41" NOx="2.45" PMx="0.11" fuel="1987.96" electricity="0.00" noise="68.91" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="222.92" speed="17.81" angle="166.11" x="1937.29" y="1774.91"/>
+    </timestep>
+    <timestep time="962.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3020.87" CO="60.90" HC="0.35" NOx="1.18" PMx="0.04" fuel="963.54" electricity="0.00" noise="61.81" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1779258548_1779258550_1779258563_1779258566_#2more_18_0" pos="26.66" speed="7.76" angle="181.32" x="1903.25" y="2481.32"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="5022.43" CO="30.70" HC="0.26" NOx="1.86" PMx="0.08" fuel="1601.91" electricity="0.00" noise="68.44" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="241.18" speed="18.26" angle="162.98" x="1942.57" y="1757.39"/>
+    </timestep>
+    <timestep time="963.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3732.14" CO="67.48" HC="0.39" NOx="1.50" PMx="0.06" fuel="1190.39" electricity="0.00" noise="63.31" route="bus_route" type="BUS" waiting="0.00" lane="166481853_0" pos="5.68" speed="8.50" angle="177.86" x="1903.68" y="2472.94"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="5135.09" CO="32.01" HC="0.27" NOx="1.91" PMx="0.08" fuel="1637.85" electricity="0.00" noise="68.70" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="259.89" speed="18.71" angle="162.98" x="1948.06" y="1739.46"/>
+    </timestep>
+    <timestep time="964.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3231.49" CO="52.13" HC="0.31" NOx="1.25" PMx="0.04" fuel="1030.71" electricity="0.00" noise="62.67" route="bus_route" type="BUS" waiting="0.00" lane="166481853_0" pos="14.67" speed="8.99" angle="175.77" x="1904.33" y="2464.15"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="65.43" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="277.43" speed="17.53" angle="162.98" x="1953.20" y="1722.66"/>
+    </timestep>
+    <timestep time="965.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3305.00" CO="48.79" HC="0.30" NOx="1.27" PMx="0.04" fuel="1054.16" electricity="0.00" noise="62.99" route="bus_route" type="BUS" waiting="0.00" lane="166481853_0" pos="24.15" speed="9.48" angle="175.77" x="1905.02" y="2454.88"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="60.52" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="290.46" speed="13.03" angle="162.98" x="1957.03" y="1710.17"/>
+    </timestep>
+    <timestep time="966.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3876.94" CO="54.25" HC="0.34" NOx="1.52" PMx="0.06" fuel="1236.57" electricity="0.00" noise="64.03" route="bus_route" type="BUS" waiting="0.00" lane="166481853_1" pos="34.29" speed="10.14" angle="175.78" x="1908.88" y="2445.99"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="55.02" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="298.99" speed="8.53" angle="162.98" x="1959.53" y="1702.00"/>
+    </timestep>
+    <timestep time="967.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3275.00" CO="38.11" HC="0.25" NOx="1.23" PMx="0.04" fuel="1044.59" electricity="0.00" noise="63.45" route="bus_route" type="BUS" waiting="0.00" lane="166481853_1" pos="44.85" speed="10.56" angle="179.61" x="1908.85" y="2435.23"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="46.24" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="303.02" speed="4.03" angle="159.61" x="1961.36" y="1698.43"/>
+    </timestep>
+    <timestep time="968.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="4348.54" CO="53.87" HC="0.35" NOx="1.72" PMx="0.07" fuel="1386.99" electricity="0.00" noise="65.00" route="bus_route" type="BUS" waiting="0.00" lane="166481853_1" pos="56.15" speed="11.30" angle="180.49" x="1908.76" y="2423.72"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2495.49" CO="160.14" HC="0.79" NOx="1.14" PMx="0.06" fuel="796.00" electricity="0.00" noise="38.74" route="bus_route" type="BUS" waiting="0.00" lane="166463277_0" pos="303.13" speed="0.11" angle="159.47" x="1961.42" y="1698.33"/>
+    </timestep>
+    <timestep time="969.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3830.83" CO="38.94" HC="0.27" NOx="1.46" PMx="0.05" fuel="1221.86" electricity="0.00" noise="64.64" route="bus_route" type="BUS" waiting="0.00" lane="166481853_1" pos="67.99" speed="11.83" angle="180.49" x="1908.65" y="2411.66"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2613.21" CO="163.05" HC="0.80" NOx="1.20" PMx="0.07" fuel="833.55" electricity="0.00" noise="55.85" route="bus_route" type="BUS" waiting="1.00" lane="166463277_0" pos="303.22" speed="0.08" angle="159.36" x="1961.46" y="1698.26"/>
+    </timestep>
+    <timestep time="970.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="4303.31" CO="43.87" HC="0.30" NOx="1.67" PMx="0.06" fuel="1372.56" electricity="0.00" noise="65.38" route="bus_route" type="BUS" waiting="0.00" lane="166481853_1" pos="80.46" speed="12.47" angle="177.61" x="1909.17" y="2398.96"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2623.77" CO="164.65" HC="0.81" NOx="1.20" PMx="0.07" fuel="836.92" electricity="0.00" noise="55.60" route="bus_route" type="BUS" waiting="2.00" lane="166463277_0" pos="303.23" speed="0.01" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="971.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="56.75" route="bus_route" type="BUS" waiting="0.00" lane="166481853_1" pos="89.97" speed="9.51" angle="177.61" x="1909.58" y="2389.28"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.42" CO="164.73" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.13" electricity="0.00" noise="55.92" route="bus_route" type="BUS" waiting="3.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="972.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="48.93" route="bus_route" type="BUS" waiting="0.00" lane="166481853_1" pos="95.10" speed="5.13" angle="177.61" x="1909.80" y="2384.06"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.62" CO="164.76" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.19" electricity="0.00" noise="55.93" route="bus_route" type="BUS" waiting="4.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="973.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="37.11" route="bus_route" type="BUS" waiting="0.00" lane="166481853_1" pos="95.80" speed="0.70" angle="177.61" x="1909.83" y="2383.34"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.68" CO="164.77" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.21" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="5.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="974.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2558.80" CO="158.59" HC="0.78" NOx="1.17" PMx="0.06" fuel="816.20" electricity="0.00" noise="54.16" route="bus_route" type="BUS" waiting="0.00" lane="166481853_1" pos="96.08" speed="0.28" angle="177.61" x="1909.84" y="2383.06"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.70" CO="164.77" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="6.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="975.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2620.07" CO="164.26" HC="0.81" NOx="1.20" PMx="0.07" fuel="835.74" electricity="0.00" noise="54.84" route="bus_route" type="BUS" waiting="1.00" lane="166481853_1" pos="96.10" speed="0.02" angle="177.61" x="1909.84" y="2383.04"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="7.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="976.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2624.01" CO="164.67" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.00" electricity="0.00" noise="55.86" route="bus_route" type="BUS" waiting="2.00" lane="166481853_1" pos="96.10" speed="0.01" angle="177.61" x="1909.84" y="2383.03"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="8.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="977.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2624.27" CO="164.71" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.08" electricity="0.00" noise="55.93" route="bus_route" type="BUS" waiting="3.00" lane="166481853_1" pos="96.11" speed="0.00" angle="177.61" x="1909.84" y="2383.03"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="9.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="978.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2624.63" CO="164.76" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.19" electricity="0.00" noise="55.93" route="bus_route" type="BUS" waiting="4.00" lane="166481853_1" pos="96.11" speed="0.00" angle="177.61" x="1909.84" y="2383.03"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="10.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="979.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2624.70" CO="164.77" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.21" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="5.00" lane="166481853_1" pos="96.11" speed="0.00" angle="177.61" x="1909.84" y="2383.03"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="11.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="980.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="6.00" lane="166481853_1" pos="96.11" speed="0.00" angle="177.61" x="1909.84" y="2383.03"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="12.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="981.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="7.00" lane="166481853_1" pos="96.11" speed="0.00" angle="177.61" x="1909.84" y="2383.03"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="13.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="982.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="8.00" lane="166481853_1" pos="96.11" speed="0.00" angle="177.61" x="1909.84" y="2383.03"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="14.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="983.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="9.00" lane="166481853_1" pos="96.11" speed="0.00" angle="177.61" x="1909.84" y="2383.03"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="15.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="984.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="10.00" lane="166481853_1" pos="96.11" speed="0.00" angle="177.61" x="1909.84" y="2383.03"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="16.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="985.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="11.00" lane="166481853_1" pos="96.11" speed="0.00" angle="177.61" x="1909.84" y="2383.03"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="17.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="986.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="12.00" lane="166481853_1" pos="96.11" speed="0.00" angle="177.61" x="1909.84" y="2383.03"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="18.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="987.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2624.71" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="13.00" lane="166481853_1" pos="96.11" speed="0.00" angle="177.61" x="1909.84" y="2383.03"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="19.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="988.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="14.00" lane="166481853_1" pos="96.11" speed="0.00" angle="177.61" x="1909.84" y="2383.03"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="20.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="989.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="15.00" lane="166481853_1" pos="96.11" speed="0.00" angle="177.61" x="1909.84" y="2383.03"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="21.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="990.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2632.42" CO="155.57" HC="0.77" NOx="1.19" PMx="0.06" fuel="839.67" electricity="0.00" noise="58.50" route="bus_route" type="BUS" waiting="0.00" lane="166481853_1" pos="96.65" speed="0.54" angle="178.69" x="1909.63" y="2382.52"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="22.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="991.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2649.59" CO="146.53" HC="0.73" NOx="1.19" PMx="0.06" fuel="845.15" electricity="0.00" noise="58.79" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_3_0" pos="0.62" speed="1.09" angle="180.46" x="1909.30" y="2381.48"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="23.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="992.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2629.86" CO="138.44" HC="0.69" NOx="1.16" PMx="0.06" fuel="838.85" electricity="0.00" noise="58.59" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_3_0" pos="2.18" speed="1.55" angle="182.42" x="1908.96" y="2379.97"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="24.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="993.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2632.24" CO="131.18" HC="0.66" NOx="1.15" PMx="0.06" fuel="839.61" electricity="0.00" noise="58.72" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_3_0" pos="4.18" speed="2.00" angle="184.97" x="1908.51" y="2378.01"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="25.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="994.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2613.34" CO="124.35" HC="0.63" NOx="1.13" PMx="0.05" fuel="833.58" electricity="0.00" noise="58.71" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_3_0" pos="6.59" speed="2.41" angle="188.06" x="1907.97" y="2375.66"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="26.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="995.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2696.17" CO="118.26" HC="0.60" NOx="1.16" PMx="0.05" fuel="859.99" electricity="0.00" noise="59.35" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_3_0" pos="9.51" speed="2.92" angle="191.52" x="1907.38" y="2372.81"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="27.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="996.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2638.48" CO="110.85" HC="0.56" NOx="1.12" PMx="0.05" fuel="841.59" electricity="0.00" noise="59.16" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_3_0" pos="12.84" speed="3.33" angle="189.74" x="1907.23" y="2369.48"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="28.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="997.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2938.96" CO="107.13" HC="0.56" NOx="1.24" PMx="0.05" fuel="937.43" electricity="0.00" noise="60.62" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_3_0" pos="16.85" speed="4.01" angle="186.32" x="1907.05" y="2365.48"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="29.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="998.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="2991.85" CO="98.96" HC="0.52" NOx="1.25" PMx="0.05" fuel="954.30" electricity="0.00" noise="60.86" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_3_0" pos="21.51" speed="4.67" angle="182.39" x="1906.88" y="2360.82"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="30.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+    <timestep time="999.00">
+        <vehicle id="BUS11" eclass="HBEFA3/PC_G_EU4" CO2="3178.34" CO="92.98" HC="0.50" NOx="1.32" PMx="0.05" fuel="1013.77" electricity="0.00" noise="61.53" route="bus_route" type="BUS" waiting="0.00" lane=":cluster_1788441283_1788441300_1788441320_1973443784_3_0" pos="26.91" speed="5.39" angle="180.81" x="1906.97" y="2355.42"/>
+        <vehicle id="BUS8" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="837.22" electricity="0.00" noise="55.94" route="bus_route" type="BUS" waiting="31.00" lane="166463277_0" pos="303.23" speed="0.00" angle="159.35" x="1961.47" y="1698.25"/>
+    </timestep>
+</emission-export>

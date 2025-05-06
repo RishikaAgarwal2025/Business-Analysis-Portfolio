@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-04-26 00:47:07 by Eclipse SUMO sumo Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="final.net.xml"/>
+        <route-files value="Car.rou.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="Car_tripinfo.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="1000"/>
+    </time>
+
+    <processing>
+        <ignore-route-errors value="True"/>
+        <max-num-vehicles value="40"/>
+    </processing>
+
+</configuration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+    <tripinfo id="CAR2" depart="50.00" departLane="166458245#0_0" departPos="5.10" departSpeed="0.00" departDelay="0.00" arrival="339.00" arrivalLane="166479007#3_1" arrivalPos="55.40" arrivalSpeed="19.65" duration="289.00" routeLength="2934.15" waitingTime="48.00" waitingCount="2" stopTime="0.00" timeLoss="135.52" rerouteNo="0" devices="tripinfo_CAR2" vType="CAR" speedFactor="0.94" vaporized=""/>
+    <tripinfo id="CAR1" depart="10.00" departLane="166458245#0_0" departPos="5.10" departSpeed="0.00" departDelay="0.00" arrival="344.00" arrivalLane="166479007#3_1" arrivalPos="55.40" arrivalSpeed="19.49" duration="334.00" routeLength="2938.04" waitingTime="88.00" waitingCount="2" stopTime="0.00" timeLoss="180.74" rerouteNo="0" devices="tripinfo_CAR1" vType="CAR" speedFactor="1.06" vaporized=""/>
+    <tripinfo id="CAR3" depart="75.00" departLane="166458245#0_0" departPos="5.10" departSpeed="0.00" departDelay="0.00" arrival="433.00" arrivalLane="166479007#3_1" arrivalPos="55.40" arrivalSpeed="19.87" duration="358.00" routeLength="2938.04" waitingTime="114.00" waitingCount="2" stopTime="0.00" timeLoss="204.37" rerouteNo="0" devices="tripinfo_CAR3" vType="CAR" speedFactor="1.01" vaporized=""/>
+    <tripinfo id="CAR4" depart="100.00" departLane="166458245#0_0" departPos="5.10" departSpeed="0.00" departDelay="0.00" arrival="613.00" arrivalLane="166479007#3_1" arrivalPos="55.40" arrivalSpeed="19.68" duration="513.00" routeLength="2938.04" waitingTime="226.00" waitingCount="5" stopTime="0.00" timeLoss="360.34" rerouteNo="0" devices="tripinfo_CAR4" vType="CAR" speedFactor="1.08" vaporized=""/>
+    <tripinfo id="CAR5" depart="250.00" departLane="166458245#0_0" departPos="5.10" departSpeed="0.00" departDelay="0.00" arrival="702.00" arrivalLane="166479007#3_1" arrivalPos="55.40" arrivalSpeed="19.83" duration="452.00" routeLength="2938.04" waitingTime="177.00" waitingCount="4" stopTime="0.00" timeLoss="298.83" rerouteNo="0" devices="tripinfo_CAR5" vType="CAR" speedFactor="1.03" vaporized=""/>
+    <tripinfo id="CAR6" depart="500.00" departLane="166458245#0_0" departPos="5.10" departSpeed="0.00" departDelay="0.00" arrival="974.00" arrivalLane="166479007#3_1" arrivalPos="55.40" arrivalSpeed="19.74" duration="474.00" routeLength="2938.04" waitingTime="185.00" waitingCount="5" stopTime="0.00" timeLoss="317.83" rerouteNo="0" devices="tripinfo_CAR6" vType="CAR" speedFactor="0.83" vaporized=""/>
+</tripinfos>

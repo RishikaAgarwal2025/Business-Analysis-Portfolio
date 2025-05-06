@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-05-03 00:09:30 by Eclipse SUMO sumo Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="Car.net.xml"/>
+        <route-files value="Car.rou.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="Case5_cars_tripinfo.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="1000"/>
+    </time>
+
+    <processing>
+        <ignore-route-errors value="True"/>
+    </processing>
+
+</configuration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+    <tripinfo id="CAR42" depart="363.00" departLane="166458245#0_0" departPos="5.10" departSpeed="0.00" departDelay="0.00" arrival="859.00" arrivalLane="166479007#3_1" arrivalPos="54.81" arrivalSpeed="12.24" duration="496.00" routeLength="2937.12" waitingTime="192.00" waitingCount="4" stopTime="0.00" timeLoss="258.58" rerouteNo="0" devices="tripinfo_CAR42" vType="CAR" speedFactor="1.06" vaporized=""/>
+</tripinfos>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-05-04 00:42:10 by Eclipse SUMO sumo Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="ElectricBRTS.net.xml"/>
+        <route-files value="BRTS.route.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="Case6_brts_tripinformation.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="1000"/>
+    </time>
+
+    <processing>
+        <ignore-route-errors value="True"/>
+        <max-num-vehicles value="3"/>
+    </processing>
+
+</configuration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+    <tripinfo id="BUS1" depart="50.00" departLane="166458245#0_0" departPos="12.10" departSpeed="0.00" departDelay="0.00" arrival="345.00" arrivalLane="166479007#0_1" arrivalPos="27.35" arrivalSpeed="9.31" duration="295.00" routeLength="2668.16" waitingTime="56.00" waitingCount="3" stopTime="0.00" timeLoss="196.88" rerouteNo="0" devices="tripinfo_BUS1" vType="BUS" speedFactor="1.06" vaporized=""/>
+    <tripinfo id="BUS2" depart="100.00" departLane="166458245#0_0" departPos="12.10" departSpeed="0.00" departDelay="0.00" arrival="482.00" arrivalLane="166479007#0_1" arrivalPos="27.35" arrivalSpeed="9.49" duration="382.00" routeLength="2668.16" waitingTime="134.00" waitingCount="4" stopTime="0.00" timeLoss="272.06" rerouteNo="0" devices="tripinfo_BUS2" vType="BUS" speedFactor="0.94" vaporized=""/>
+    <tripinfo id="BUS3" depart="180.00" departLane="166458245#0_0" departPos="12.10" departSpeed="0.00" departDelay="0.00" arrival="618.00" arrivalLane="166479007#0_1" arrivalPos="27.35" arrivalSpeed="8.59" duration="438.00" routeLength="2668.16" waitingTime="184.00" waitingCount="4" stopTime="0.00" timeLoss="335.75" rerouteNo="0" devices="tripinfo_BUS3" vType="BUS" speedFactor="1.01" vaporized=""/>
+    <tripinfo id="BUS4" depart="345.00" departLane="166458245#0_0" departPos="12.10" departSpeed="0.00" departDelay="55.00" arrival="753.00" arrivalLane="166479007#0_1" arrivalPos="27.35" arrivalSpeed="9.81" duration="408.00" routeLength="2668.16" waitingTime="178.00" waitingCount="4" stopTime="0.00" timeLoss="311.95" rerouteNo="0" devices="tripinfo_BUS4" vType="BUS" speedFactor="1.08" vaporized=""/>
+    <tripinfo id="BUS5" depart="482.00" departLane="166458245#0_0" departPos="12.10" departSpeed="0.00" departDelay="82.00" arrival="888.00" arrivalLane="166479007#0_1" arrivalPos="27.35" arrivalSpeed="8.94" duration="406.00" routeLength="2668.16" waitingTime="193.00" waitingCount="3" stopTime="0.00" timeLoss="305.48" rerouteNo="0" devices="tripinfo_BUS5" vType="BUS" speedFactor="1.03" vaporized=""/>
+</tripinfos>

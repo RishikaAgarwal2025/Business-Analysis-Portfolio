@@ -92,8 +92,8 @@ This section contains a list of projects with brief descriptions.
 **Report:** 
   <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Analysis%20in%20Practice/AIP_report.pdf">
   <code>PDF version</code></a><br>
-**Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Pricing%20Analytics/BuildMax_Rentals_Dataset_Updated.xlsx">
-  <code>Pricing-analytics-BuildMax.xlsx</code></a><br>
+**Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/tree/main/Analysis%20in%20Practice/brazilian-ecommerce-dataset">
+  <code>Nike-dataset.csv</code></a><br>
 **Skills:** analytical thinking, data cleaning, data analysis, machine learning <br>
 **Hard skills:** MS Powerpoint, Python: Decision tree, GBDT, XGBDT, logistic regression, SVM, troubleshooting <br>
 **Results:** The gradient boosting model was ultimately selected, however, underprediction and underfitting were discovered. It is advised to enhance the data balance and add a number of features in order to fix this. In virtue of these discoveries, more initiatives will be recommended to improve the model's predictive power.

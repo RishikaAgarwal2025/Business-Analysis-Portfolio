@@ -14,6 +14,7 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [Forecasting Tata Motors' Closing Stock Price Using Nifty 50 Data](#forecasting-tata-motors-nifty50)
   - [Data Management](#data-management-sql)
   - [Treatment Control testing](#treatment-control-testing)
+  - [Pricing Analytics](#pricing-analytics)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
 

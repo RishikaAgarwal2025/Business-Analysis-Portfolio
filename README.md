@@ -16,6 +16,7 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [Treatment Control testing](#treatment-control-testing)
   - [Pricing Analytics](#pricing-analytics)
   - [Analysis in Practice](#analysis-in-practice)
+  - [Business Statistics](#business-statistics)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
 
@@ -97,3 +98,14 @@ This section contains a list of projects with brief descriptions.
 **Skills:** analytical thinking, data cleaning, data analysis, machine learning <br>
 **Hard skills:** MS Powerpoint, Python: Decision tree, GBDT, XGBDT, logistic regression, SVM, troubleshooting <br>
 **Results:** The gradient boosting model was ultimately selected, however, underprediction and underfitting were discovered. It is advised to enhance the data balance and add a number of features in order to fix this. In virtue of these discoveries, more initiatives will be recommended to improve the model's predictive power.
+
+### Business Statistics 
+**Description:** The project requires you to analyze three datasets using R: one on New York stall dataset and other one cardiovascular disease in England to identify influencing factors, and another on customer satisfaction in retail to explore how various factors, especially delivery times and socio-economic status, impact satisfaction. Your findings should be presented in a clear, reproducible RMarkdown report with professional visuals and plain English summaries. <br>
+**Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Analysis%20in%20Practice/AIP_code.ipynb">
+  <code>Analytics-in-practice-code.py</code></a><br>
+**Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/tree/main/Analysis%20in%20Practice/brazilian-ecommerce-dataset">
+  <code>Nike-dataset.csv</code></a><br>
+**Skills:** analytical thinking, data cleaning, data analysis <br>
+**Hard skills:** R <br>
+**Results:** The analysis shows that Coney Street offers the most consistent and reliable foot traffic for a stall, while Stonegate and Parliament Street have higher variability, making them less predictable for business (Assignment 1). The analysis reveals that poverty, smoking, overweight prevalence, and wellbeing are significant predictors of cardiovascular disease (CVD). Poverty has a negative connection with CVD, indicating that as poverty levels rise, CVD prevalence falls. In contrast, smoking, overweight prevalence, and wellness are positively associated with increased CVD prevalence. While these factors play an important role in explaining the heterogeneity in CVD prevalence, other variables may also contribute, necessitating future investigation. The analysis shows that customer satisfaction is strongly influenced by staff satisfaction, delivery time, and SES category, with Medium SES stores experiencing the greatest positive impact. Prioritizing delivery time reductions and improving staff satisfaction, especially in High and Medium SES stores, is key to enhancing overall satisfaction (Assignment 2) 
+

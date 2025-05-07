@@ -72,8 +72,8 @@ This section contains a list of projects with brief descriptions.
 
 ### Pricing Analytics 
 **Description:** This project develops a revenue management solution for BuildMax Rentals to optimise equipment pricing and fleet allocation. Using linear programming and historical rental data, the model aims to maximise revenue while addressing operational constraints and customer demand patterns.<br>
-**Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Treatment%20control%20testing/Code/Treatment%20control%20testing.html">
-  <code>A/B testing.html</code></a><br>
+**Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Pricing%20Analytics/Code.py">
+  <code>Pricing-analytics.py</code></a><br>
 **Report:** 
   <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Treatment%20control%20testing/Report/Treatment%20Control%20Testing%20Report.pdf">
   <code>PDF version</code></a><br>

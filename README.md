@@ -90,7 +90,7 @@ This section contains a list of projects with brief descriptions.
 **Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Analysis%20in%20Practice/AIP_code.ipynb">
   <code>Analytics-in-practice-code.py</code></a><br>
 **Report:** 
-  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Pricing%20Analytics/Report.pdf">
+  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Analysis%20in%20Practice/AIP_report.pdf">
   <code>PDF version</code></a><br>
 **Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Pricing%20Analytics/BuildMax_Rentals_Dataset_Updated.xlsx">
   <code>Pricing-analytics-BuildMax.xlsx</code></a><br>

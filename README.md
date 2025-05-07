@@ -119,7 +119,7 @@ This section contains a list of projects with brief descriptions.
 ### Understanding Business for Analysts
 **Description:** For this project, I selected MYPROTEIN as the company of focus. I applied the DELTA framework to assess its data strategy, then developed a new analytical project that included risk analysis, PIDD questions, and a CATWOE analysis to explore business problems and stakeholder perspectives. <br>
 **Report:** 
-  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Analysis%20in%20Practice/AIP_report.pdf">
+  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Understanding%20Business%20for%20Analysts/Repoort%20-%20UBFA.pdf">
   <code>PDF version</code></a><br>
 **Skills:** analytical thinking, data understanding, company understanding, interpretation <br>
 **Hard skills:** MS Word, MS Powerpoint <br> 

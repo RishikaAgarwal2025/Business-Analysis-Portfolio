@@ -128,3 +128,8 @@ enhancepersonalisation, drive innovation, and strengthen Myprotein’s leadershi
 
 ## Certificates
 * [Data Visualisation (Tableau) and Living Wages internship](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Google%20Data%20Data%20Analytics.pdf) - WageIndicator, 2023
+
+## Contacts
+* Linkedin: www.linkedin.com/in/rishika-agarwal-uk
+* Email: rishikaagarwal544@gmail.com
+

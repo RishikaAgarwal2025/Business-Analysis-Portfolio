@@ -75,7 +75,7 @@ This section contains a list of projects with brief descriptions.
 **Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Pricing%20Analytics/Code.py">
   <code>Pricing-analytics.py</code></a><br>
 **Report:** 
-  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Treatment%20control%20testing/Report/Treatment%20Control%20Testing%20Report.pdf">
+  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Pricing%20Analytics/Report.pdf">
   <code>PDF version</code></a><br>
 **Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Treatment%20control%20testing/Data/Data.csv">
   <code>Testing-data.csv</code></a><br>

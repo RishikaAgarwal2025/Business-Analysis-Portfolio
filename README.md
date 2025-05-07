@@ -77,8 +77,8 @@ This section contains a list of projects with brief descriptions.
 **Report:** 
   <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Pricing%20Analytics/Report.pdf">
   <code>PDF version</code></a><br>
-**Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Treatment%20control%20testing/Data/Data.csv">
-  <code>Testing-data.csv</code></a><br>
+**Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Pricing%20Analytics/BuildMax_Rentals_Dataset_Updated.xlsx">
+  <code>Pricing-analytics-BuildMax.xlsx</code></a><br>
 **Skills:** analytical thinking, data cleaning, data analysis, price analytics, optimisation modelling <br>
 **Hard skills:** MS Powerpoint, Python: pyomo <br>
 **Results:** Our findings highlight the importance of balancing short-term and long-term rentals, considering sector-specific pricing needs, addressing limited granularity in demand data, issues with maintenance schedules, and the misaligned pricing strategy. Implementing these RM strategies will allow BuildMax to stay competitive, increase revenue potential, and improve overall business performance.

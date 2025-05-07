@@ -102,9 +102,9 @@ This section contains a list of projects with brief descriptions.
 ### Business Statistics 
 **Description:** The project requires you to analyze three datasets using R: one on New York stall dataset and other one cardiovascular disease in England to identify influencing factors, and another on customer satisfaction in retail to explore how various factors, especially delivery times and socio-economic status, impact satisfaction. Your findings should be presented in a clear, reproducible RMarkdown report with professional visuals and plain English summaries. <br>
 **Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Business%20Statistics/Assignment%201/Code/Business%20Statistic_Assignment1.rmd">
-  <code>business-statistics-code1.py</code></a><br>
-  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Business%20Statistics/Assignment%201/Code/Business%20Statistic_Assignment1.rmd">
-  <code>business-statistics-code2.py</code></a><br>
+  <code>business-statistics-code1.rmd</code></a><br>
+  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Business%20Statistics/Assignment%202/Code/Code_Assignment.Rmd">
+  <code>business-statistics-code2.rmd</code></a><br>
 **Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/tree/main/Analysis%20in%20Practice/brazilian-ecommerce-dataset">
   <code>Nike-dataset.csv</code></a><br>
 **Skills:** analytical thinking, data cleaning, data analysis <br>

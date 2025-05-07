@@ -17,7 +17,7 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [Pricing Analytics](#pricing-analytics)
   - [Analysis in Practice](#analysis-in-practice)
   - [Business Statistics](#business-statistics)
-  - [Understanding business for analytsts](#understanding-business-for-analysts) 
+  - [Understanding Business for Analytsts](#understanding-business-for-analysts) 
 * [Certificates](#certificates)
 * [Contacts](#contacts)
 

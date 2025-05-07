@@ -17,6 +17,7 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [Pricing Analytics](#pricing-analytics)
   - [Analysis in Practice](#analysis-in-practice)
   - [Business Statistics](#business-statistics)
+  - [Understanding business for analytsts](#understanding-business-for-analysts) 
 * [Certificates](#certificates)
 * [Contacts](#contacts)
 
@@ -115,3 +116,12 @@ This section contains a list of projects with brief descriptions.
 **Hard skills:** R <br>
 **Results:** The analysis shows that Coney Street offers the most consistent and reliable foot traffic for a stall, while Stonegate and Parliament Street have higher variability, making them less predictable for business (Assignment 1). The analysis reveals that poverty, smoking, overweight prevalence, and wellbeing are significant predictors of cardiovascular disease (CVD). Poverty has a negative connection with CVD, indicating that as poverty levels rise, CVD prevalence falls. In contrast, smoking, overweight prevalence, and wellness are positively associated with increased CVD prevalence. While these factors play an important role in explaining the heterogeneity in CVD prevalence, other variables may also contribute, necessitating future investigation. The analysis shows that customer satisfaction is strongly influenced by staff satisfaction, delivery time, and SES category, with Medium SES stores experiencing the greatest positive impact. Prioritizing delivery time reductions and improving staff satisfaction, especially in High and Medium SES stores, is key to enhancing overall satisfaction (Assignment 2) 
 
+### Understanding Business for Analysts
+**Description:** For this project, I selected MYPROTEIN as the company of focus. I applied the DELTA framework to assess its data strategy, then developed a new analytical project that included risk analysis, PIDD questions, and a CATWOE analysis to explore business problems and stakeholder perspectives. <br>
+**Report:** 
+  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Analysis%20in%20Practice/AIP_report.pdf">
+  <code>PDF version</code></a><br>
+**Skills:** analytical thinking, data understanding, company understanding, interpretation <br>
+**Hard skills:** MS Word, MS Powerpoint <br> 
+**Results:** The personalised diet and fitness plan leverages Myprotein’s capabilities to enhance customer engagement through AI-driven personalisation. From the DELTA framework, the company demonstrates strong data utilisation but must improve integration and scalability. Making sense of the problem gives the visual representation of the project, while risk management highlights key challenges such as AI bias and data privacy. To ensure success, Myprotein should conduct a small-scale pilot deployment, gather user feedback, and refine the model before full-scale implementation. Integrating insights from this project into future AI-driven initiatives will 
+enhancepersonalisation, drive innovation, and strengthen Myprotein’s leadership in the health and fitness industry.

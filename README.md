@@ -15,6 +15,7 @@ This repository was created to showcase my analytical and technical skills (Exce
   - [Data Management](#data-management-sql)
   - [Treatment Control testing](#treatment-control-testing)
   - [Pricing Analytics](#pricing-analytics)
+  - Analysis in Practice (#analysis-in-practice)
 * [Certificates](#certificates)
 * [Contacts](#contacts)
 
@@ -83,3 +84,16 @@ This section contains a list of projects with brief descriptions.
 **Skills:** analytical thinking, data cleaning, data analysis, price analytics, optimisation modelling <br>
 **Hard skills:** MS Powerpoint, Python: pyomo <br>
 **Results:** Our findings highlight the importance of balancing short-term and long-term rentals, considering sector-specific pricing needs, addressing limited granularity in demand data, issues with maintenance schedules, and the misaligned pricing strategy. Implementing these RM strategies will allow BuildMax to stay competitive, increase revenue potential, and improve overall business performance.
+
+### Analytics in Practice 
+**Description:** This project aims to develop a predictive analytics solution for a South American eCommerce platform, Nile, to identify customers likely to leave positive reviews. By building a machine learning model using customer and order data, the goal is to support targeted engagement strategies that efficiently increase positive feedback and enhance the platform’s reputation. <br>
+**Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Pricing%20Analytics/Code.py">
+  <code>Pricing-analytics.py</code></a><br>
+**Report:** 
+  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Pricing%20Analytics/Report.pdf">
+  <code>PDF version</code></a><br>
+**Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Pricing%20Analytics/BuildMax_Rentals_Dataset_Updated.xlsx">
+  <code>Pricing-analytics-BuildMax.xlsx</code></a><br>
+**Skills:** analytical thinking, data cleaning, data analysis, machine learning <br>
+**Hard skills:** MS Powerpoint, Python: Decision tree, GBDT, XGBDT, logistic regression, SVM, troubleshooting <br>
+**Results:** The gradient boosting model was ultimately selected, however, underprediction and underfitting were discovered. It is advised to enhance the data balance and add a number of features in order to fix this. In virtue of these discoveries, more initiatives will be recommended to improve the model's predictive power.

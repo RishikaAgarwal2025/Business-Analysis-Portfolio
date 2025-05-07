@@ -107,8 +107,8 @@ This section contains a list of projects with brief descriptions.
   <code>business-statistics-code2.rmd</code></a><br>
 **Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Business%20Statistics/Assignment%201/York_Footfall_data.csv">
   <code>York-football.csv</code></a><br>
-  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Business%20Statistics/Assignment%201/York_Footfall_data.csv">
-  <code>York-football.csv</code></a><br>
+  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Business%20Statistics/Assignment%202/Dataset/Cardio_Vascular_Disease.csv">
+  <code>Cardio-vascular-disease.csv</code></a><br>
   <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Business%20Statistics/Assignment%201/York_Footfall_data.csv">
   <code>York-football.csv</code></a><br>
 **Skills:** analytical thinking, data cleaning, data analysis <br>

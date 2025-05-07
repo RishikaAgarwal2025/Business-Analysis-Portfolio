@@ -109,8 +109,8 @@ This section contains a list of projects with brief descriptions.
   <code>York-football.csv</code></a><br>
   <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Business%20Statistics/Assignment%202/Dataset/Cardio_Vascular_Disease.csv">
   <code>Cardio-vascular-disease.csv</code></a><br>
-  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Business%20Statistics/Assignment%201/York_Footfall_data.csv">
-  <code>York-football.csv</code></a><br>
+  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Business%20Statistics/Assignment%202/Dataset/cust_satisfaction.csv">
+  <code>customer-satisfaction.csv</code></a><br>
 **Skills:** analytical thinking, data cleaning, data analysis <br>
 **Hard skills:** R <br>
 **Results:** The analysis shows that Coney Street offers the most consistent and reliable foot traffic for a stall, while Stonegate and Parliament Street have higher variability, making them less predictable for business (Assignment 1). The analysis reveals that poverty, smoking, overweight prevalence, and wellbeing are significant predictors of cardiovascular disease (CVD). Poverty has a negative connection with CVD, indicating that as poverty levels rise, CVD prevalence falls. In contrast, smoking, overweight prevalence, and wellness are positively associated with increased CVD prevalence. While these factors play an important role in explaining the heterogeneity in CVD prevalence, other variables may also contribute, necessitating future investigation. The analysis shows that customer satisfaction is strongly influenced by staff satisfaction, delivery time, and SES category, with Medium SES stores experiencing the greatest positive impact. Prioritizing delivery time reductions and improving staff satisfaction, especially in High and Medium SES stores, is key to enhancing overall satisfaction (Assignment 2) 

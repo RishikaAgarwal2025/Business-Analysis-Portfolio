@@ -131,7 +131,8 @@ enhancepersonalisation, drive innovation, and strengthen Myprotein’s leadershi
 * [Data Visualisation (Tableau) and Living Wages internship](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Google%20Data%20Data%20Analytics.pdf) - WageIndicator, 2023
 * [Learning App developer](https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Certificates/Google%20App%20developer.pdf) - Google, 2017
 * [Learning Scratch](https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Certificates/Google%20Scratch.pdf) - Google, 2017
-* [Learning Arts]() - Kanoria Centre for Arts, 
+* [Creative Arts and Design](https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Certificates/Kanoria%20Centre%20for%20Arts.pdf) - Kanoria Centre for Arts, 2014
+* [Motilal Oswal financial ltd internship]() - Motilal Oswal, 2024
 
 ## Contacts
 * Linkedin: www.linkedin.com/in/rishika-agarwal-uk

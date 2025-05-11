@@ -127,7 +127,9 @@ This section contains a list of projects with brief descriptions.
 enhancepersonalisation, drive innovation, and strengthen Myprotein’s leadership in the health and fitness industry.
 
 ## Certificates
+* [Gujarat State Chess Competition](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Google%20Data%20Data%20Analytics.pdf) - Chess, 2009
 * [Data Visualisation (Tableau) and Living Wages internship](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Google%20Data%20Data%20Analytics.pdf) - WageIndicator, 2023
+* 
 
 ## Contacts
 * Linkedin: www.linkedin.com/in/rishika-agarwal-uk

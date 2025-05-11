@@ -130,7 +130,8 @@ enhancepersonalisation, drive innovation, and strengthen Myprotein’s leadershi
 * [Gujarat State Chess Competition](https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Certificates/Chess%20Competition.pdf) - Chess, 2009
 * [Data Visualisation (Tableau) and Living Wages internship](https://github.com/paulo81818/Data-Business-Analysis-Portfolio/blob/main/Certificates/Google%20Data%20Data%20Analytics.pdf) - WageIndicator, 2023
 * [Learning App developer](https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Certificates/Google%20App%20developer.pdf) - Google, 2017
-* [Learning Scratch](https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Certificates/Chess%20Competition.pdf) - Google, 2017
+* [Learning Scratch](https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Certificates/Google%20Scratch.pdf) - Google, 2017
+* [Learning Arts]() - Kanoria Centre for Arts, 
 
 ## Contacts
 * Linkedin: www.linkedin.com/in/rishika-agarwal-uk

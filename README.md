@@ -133,7 +133,8 @@ enhancepersonalisation, drive innovation, and strengthen Myprotein’s leadershi
 * [Learning Scratch](https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Certificates/Google%20Scratch.pdf) - Google, 2017
 * [Creative Arts and Design](https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Certificates/Kanoria%20Centre%20for%20Arts.pdf) - Kanoria Centre for Arts, 2014
 * [Motilal Oswal financial ltd internship](https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Certificates/Motilal%20Oswal%20Internship.pdf) - Motilal Oswal, 2024
-* [Research on How do the major oviposition sities vary with the weather fluctuations such as increased rainfall and/or increased temperature]() - Ahmedabad University, 
+* [Research on How do the major oviposition sities vary with the weather fluctuations such as increased rainfall and/or increased temperature](https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Certificates/Research%20-%20How%20do%20major%20oviposition%20sites%20vary%20with%20weather%20fluctuation.pdf) - Ahmedabad University,
+* [Research project pilot survey to understand the incidence and burden of Malaria on households in Ahmedabad](https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Certificates/Research%20-%20How%20do%20major%20oviposition%20sites%20vary%20with%20weather%20fluctuation.pdf) - Ahmedabad University, 
 
 ## Contacts
 * Linkedin: www.linkedin.com/in/rishika-agarwal-uk

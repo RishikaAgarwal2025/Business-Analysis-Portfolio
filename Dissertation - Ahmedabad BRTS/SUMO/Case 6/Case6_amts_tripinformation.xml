@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-05-04 00:36:43 by Eclipse SUMO sumo Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="Car.net.xml"/>
+        <route-files value="AMTS.rou.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="Case6_amts_tripinformation.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="1000"/>
+    </time>
+
+    <processing>
+        <ignore-route-errors value="True"/>
+        <max-num-vehicles value="6"/>
+    </processing>
+
+</configuration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+    <tripinfo id="amts6" depart="290.00" departLane="166458245#0_0" departPos="12.10" departSpeed="0.00" departDelay="0.00" arrival="854.00" arrivalLane="166479007#3_1" arrivalPos="54.81" arrivalSpeed="19.62" duration="564.00" routeLength="2930.12" waitingTime="284.00" waitingCount="5" stopTime="0.00" timeLoss="457.46" rerouteNo="0" devices="tripinfo_amts6" vType="BUS1" speedFactor="1.06" vaporized=""/>
+</tripinfos>
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+    <tripinfo id="amts7" depart="350.00" departLane="166458245#0_0" departPos="12.10" departSpeed="0.00" departDelay="0.00" arrival="853.00" arrivalLane="166479007#3_1" arrivalPos="54.81" arrivalSpeed="19.89" duration="503.00" routeLength="2924.35" waitingTime="226.00" waitingCount="5" stopTime="0.00" timeLoss="383.10" rerouteNo="0" devices="tripinfo_amts7" vType="BUS1" speedFactor="0.94" vaporized=""/>
+</tripinfos>
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+    <tripinfo id="amts5" depart="210.00" departLane="166458245#0_0" departPos="12.10" departSpeed="0.00" departDelay="0.00" arrival="852.00" arrivalLane="166479007#3_1" arrivalPos="54.81" arrivalSpeed="19.87" duration="642.00" routeLength="2930.12" waitingTime="366.00" waitingCount="5" stopTime="0.00" timeLoss="535.24" rerouteNo="0" devices="tripinfo_amts6" vType="BUS1" speedFactor="1.06" vaporized=""/>
+</tripinfos>

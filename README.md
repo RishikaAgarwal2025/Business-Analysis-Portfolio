@@ -28,7 +28,7 @@ This section contains a list of projects with brief descriptions.
 **Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Disseration%20-%20Ahmedabad%20BRTS/SUMO/Code.txt">
   <code>SUMO-code.txt</code></a><br>
 **Presentation:** 
- <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Disseration%20-%20Ahmedabad%20BRTS/Disseration%20Presentation.pptx">
+ <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Ahmedabad%20BRTS/Dissertation%20Preparation.pptx">
   <code>PowerPoint PPTX dynamic version</code></a><br>
 **Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Disseration%20-%20Ahmedabad%20BRTS/Public%20Transportation%20Survey_Data.xlsx">
   <code>public-transportation-survey-data.xlsx</code></a><br>

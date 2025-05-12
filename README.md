@@ -25,7 +25,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 This section contains a list of projects with brief descriptions.
 ### Enhancing Efficiency and Societal Impact of Ahmedabad's BRTS: Interventions and Innovations
 **Description:** The study is centered around the analysis of Bus Rapid Transit System (BRTS) utilization and travel behavior, aiming to simulate and comprehend the impact of BRTS on travel time, duration, and emissions. A comparative evaluation of travel performance and emissions among Ahmedabad Municipal Transport Service (AMTS), private cars, and BRTS is conducted through simulation using SUMO (Simulation of Urban Mobility). <br>
-**Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Disseration%20-%20Ahmedabad%20BRTS/SUMO/Code.txt">
+**Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Ahmedabad%20BRTS/SUMO/Code.txt">
   <code>SUMO-code.txt</code></a><br>
 **Presentation:** 
  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Ahmedabad%20BRTS/Dissertation%20Preparation.pptx">

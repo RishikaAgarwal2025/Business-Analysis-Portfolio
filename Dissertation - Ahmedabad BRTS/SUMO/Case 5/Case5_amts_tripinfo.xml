@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2024-05-03 00:16:42 by Eclipse SUMO sumo Version 1.19.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="Car.net.xml"/>
+        <route-files value="AMTS.rou.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output value="Case5_amts_tripinfo.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="1000"/>
+    </time>
+
+    <processing>
+        <ignore-route-errors value="True"/>
+        <max-num-vehicles value="3"/>
+    </processing>
+
+</configuration>
+-->
+
+<tripinfos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/tripinfo_file.xsd">
+    <tripinfo id="amts2" depart="100.00" departLane="166458245#0_0" departPos="12.10" departSpeed="0.00" departDelay="0.00" arrival="502.00" arrivalLane="166479007#3_1" arrivalPos="54.81" arrivalSpeed="20.06" duration="402.00" routeLength="2926.59" waitingTime="145.00" waitingCount="4" stopTime="0.00" timeLoss="281.99" rerouteNo="0" devices="tripinfo_amts2" vType="BUS1" speedFactor="0.94" vaporized=""/>
+    <tripinfo id="amts1" depart="10.00" departLane="166458245#0_0" departPos="12.10" departSpeed="0.00" departDelay="0.00" arrival="791.00" arrivalLane="166479007#3_1" arrivalPos="54.81" arrivalSpeed="19.60" duration="781.00" routeLength="2901.99" waitingTime="512.00" waitingCount="6" stopTime="0.00" timeLoss="676.88" rerouteNo="0" devices="tripinfo_amts1" vType="BUS1" speedFactor="1.06" vaporized=""/>
+    <tripinfo id="amts3" depart="250.00" departLane="166458245#0_0" departPos="12.10" departSpeed="0.00" departDelay="0.00" arrival="853.00" arrivalLane="166479007#3_1" arrivalPos="54.81" arrivalSpeed="20.12" duration="603.00" routeLength="2930.12" waitingTime="330.00" waitingCount="4" stopTime="0.00" timeLoss="491.32" rerouteNo="0" devices="tripinfo_amts3" vType="BUS1" speedFactor="1.01" vaporized=""/>
+</tripinfos>

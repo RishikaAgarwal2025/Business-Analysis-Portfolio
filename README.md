@@ -124,7 +124,7 @@ This section contains a list of projects with brief descriptions.
 **Skills:** analytical thinking, data understanding, company understanding, interpretation <br>
 **Hard skills:** MS Word, MS Powerpoint <br> 
 **Results:** The personalised diet and fitness plan leverages Myprotein’s capabilities to enhance customer engagement through AI-driven personalisation. From the DELTA framework, the company demonstrates strong data utilisation but must improve integration and scalability. Making sense of the problem gives the visual representation of the project, while risk management highlights key challenges such as AI bias and data privacy. To ensure success, Myprotein should conduct a small-scale pilot deployment, gather user feedback, and refine the model before full-scale implementation. Integrating insights from this project into future AI-driven initiatives will 
-enhancepersonalisation, drive innovation, and strengthen Myprotein’s leadership in the health and fitness industry.
+enhance personalisation, drive innovation, and strengthen Myprotein’s leadership in the health and fitness industry.
 
 ## Certificates
 * [Gujarat State Chess Competition](https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Certificates/Chess%20Competition.pdf) - Chess, 2009

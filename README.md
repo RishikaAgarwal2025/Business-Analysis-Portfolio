@@ -25,7 +25,7 @@ This section contains a list of projects with brief descriptions.
 **Code:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Dynamic%20Pricing/Code/Code.py">
   <code>SUMO-code.txt</code></a><br>
 **PDF:** 
- <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Ahmedabad%20BRTS/Dissertation%20Preparation.pptx">
+ <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Dynamic%20Pricing/PDF/5635111_Dissertation.pdf">
   <code>Dissertation-PDF</code></a><br>
 **Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Dynamic%20Pricing/Data/Online%20Retail.xlsx">
   <code>online-retail-data.xlsx</code></a>, <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Dynamic%20Pricing/Data/google_trend_general.csv">

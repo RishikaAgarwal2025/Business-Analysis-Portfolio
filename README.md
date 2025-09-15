@@ -28,7 +28,7 @@ To answer this, the study develops an agent-based simulation framework that inte
 * Reinforcement learning (custom Q-learning) to adaptively learn pricing policies in competitive environments.
 * Comparisons of markdown vs. promotion strategies to evaluate stability, profitability, and consumer trust.
 The methodology combines behavioural economics (reference price and fairness perceptions), algorithmic adaptivity (RL), and statistical robustness (Bayesian smoothing) to provide both theoretical insights and practical recommendations. 
-**Code:** 
+**Code:**
 **Dissertation PDF:** 
 **Dataset:** 
 **Skills:** Behavioural economics & consumer psychology, Econometric modelling & demand estimation, Multi-agent simulation design, Reinforcement learning (Q-learning), Bayesian inference & probabilistic filtering, Robustness checks & scenario testing 

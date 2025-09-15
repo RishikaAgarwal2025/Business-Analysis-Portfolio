@@ -6,6 +6,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 ## Contents
 * [About me](#about-me)
 * [Portfolio Projects](#portfolio-projects)
+  - [Dynamic Pricing in a Competitive Market with Shared Demand Influenced by Social Media Trends](#dynamic-pricing-in-a-competitive-market-with-shared-demand-influenced-by-social-media-trends)
   - [Enhancing Efficiency and Societal Impact of Ahmedabad's BRTS: Interventions and Innovations](#enchancing-efficiency-and-societal-impact-of-ahmedabad's-brts-intervartion-and-innovations)
   - [Forecasting Tata Motors' Closing Stock Price Using Nifty 50 Data](#forecasting-tata-motors-nifty50)
   - [Data Management](#data-management-sql)

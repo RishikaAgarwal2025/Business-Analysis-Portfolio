@@ -19,7 +19,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 
 ## Portfolio Projects
 This section contains a list of projects with brief descriptions.
-###**Dynamic Pricing in a Competitive Market with Shared Demand Influenced by Social Media Trends**
+### Dynamic Pricing in a Competitive Market with Shared Demand Influenced by Social Media Trends
 **Description:** This MSc dissertation investigates dynamic pricing strategies in competitive markets where consumer demand is strongly influenced by social media driven trends. Viral phenoemna on platforms like TikTok create sudden surges and declines in product demand, introducing high volatility and uncertainty. The research addresses a critical question: Should firms rely on markdowns, temporary promotions, or adaptive reinforcement learning (RL) to remain profitable and competitive under these volatile conditions?
 To answer this, the study develops an agent-based simulation framework that integrates: 
 * Econometric demand modelling (OLS regression on retail data with reference price and trend features).

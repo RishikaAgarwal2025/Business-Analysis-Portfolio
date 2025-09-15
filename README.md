@@ -32,7 +32,7 @@ The methodology combines behavioural economics (reference price and fairness per
 **Dissertation PDF:** 
 **Dataset:** 
 **Skills:** Behavioural economics & consumer psychology, Econometric modelling & demand estimation, Multi-agent simulation design, Reinforcement learning (Q-learning), Bayesian inference & probabilistic filtering, Robustness checks & scenario testing 
-**Hard Skills:** Python (pandas, statsmodels, numpy, matplotlib), econometrics (OLS regression), Bayesian updating (posterior inference), reinforcement learning (custom-coded Q-learning with epsilon decay), simulation modelling, data preprocessing, and visualisation 
+**Hard Skills:** Python (pandas, statsmodels, numpy, matplotlib), econometrics (OLS regression), Bayesian updating (posterior inference), reinforcement learning (custom-coded Q-learning with epsilon decay), simulation modelling, data preprocessing, and visualisation           
 **Results:**
 * Markdown strategies consistently outperformed promotions in volatile, trend-sensitive markets by stabilising consumer expectations, signalling fairness, and sustaining higher long-term revenues and market share.
 * Temporary promotions generated short-term spikes in sales but led to “promotion addiction,” resetting reference prices downward and eroding long-term profitability and consumer trust.
@@ -41,7 +41,7 @@ The methodology combines behavioural economics (reference price and fairness per
 * Strategic roadmap for firms:
 1. Use markdowns to stabilise consumer expectations and build trust in early market phases.
 2. Transition to reinforcement learning once sufficient data is available to enable adaptivity.
-3. Apply Bayesian updating to smooth noisy demand signals and ensure stable, fairness-aware pricing. 
+3. Apply Bayesian updating to smooth noisy demand signals and ensure stable, fairness-aware pricing.     
 **Impact & Contribution:** The dissertation contributes to academic literature and managerial practice by:
 * Bridging behavioural pricing theory with reinforcement learning and Bayesian inference in a multi-agent setting.
 * Providing empirical evidence that fairness and stability are as critical as short-term profitability in socially amplified markets.

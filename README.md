@@ -1,10 +1,6 @@
 # Rishika Agarwal - Business-Analysis-Portfolio
 ## About me
-Hello everyone! My name is Rishika, and this is my portfolio.
-I love investigating different types of data, discovering insights, and representing it with beautiful visuals.
-I have a background in business analytics and stock market analysis.
-
-You can see more information in my [**CV**](https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Rishika_Agarwal.pdf). 
+Hello everyone! My name is Rishika, and this is my portfolio. I love investigating different types of data, discovering insights, and representing it with beautiful visuals. I have a background in business analytics and stock market analysis.
 
 This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, R, Stata, PowerPoint, and Tableau).
 ## Contents

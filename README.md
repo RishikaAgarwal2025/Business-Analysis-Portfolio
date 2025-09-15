@@ -28,8 +28,7 @@ This section contains a list of projects with brief descriptions.
  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Ahmedabad%20BRTS/Dissertation%20Preparation.pptx">
   <code>Dissertation-PDF</code></a><br>
 **Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Ahmedabad%20BRTS/Public%20Transportation%20Survey_Data.xlsx">
-  <code>online-retail-data.xlsx</code></a><br>
-  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Ahmedabad%20BRTS/Public%20Transportation%20Survey_Data.xlsx">
+  <code>online-retail-data.xlsx</code></a>, <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Ahmedabad%20BRTS/Public%20Transportation%20Survey_Data.xlsx">
   <code>google-trend-data.csv</code></a><br>
 **Skills:** Behavioural economics & consumer psychology, Econometric modelling & demand estimation, Multi-agent simulation design, Reinforcement learning (Q-learning), Bayesian inference & probabilistic filtering, Robustness checks & scenario testing, data gathering, analytical thinking, visualisation <br>
 **Hard skills:** Python, Word <br>

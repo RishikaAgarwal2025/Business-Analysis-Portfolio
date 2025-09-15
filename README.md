@@ -21,32 +21,19 @@ This repository was created to showcase my analytical and technical skills (Exce
 ## Portfolio Projects
 This section contains a list of projects with brief descriptions.
 ### Dynamic Pricing in a Competitive Market with Shared Demand Influenced by Social Media Trends
-**Description:** This MSc dissertation investigates dynamic pricing strategies in competitive markets where consumer demand is strongly influenced by social media driven trends. Viral phenoemna on platforms like TikTok create sudden surges and declines in product demand, introducing high volatility and uncertainty. The research addresses a critical question: Should firms rely on markdowns, temporary promotions, or adaptive reinforcement learning (RL) to remain profitable and competitive under these volatile conditions?
-To answer this, the study develops an agent-based simulation framework that integrates: 
-* Econometric demand modelling (OLS regression on retail data with reference price and trend features).
-* Bayesian updating to filter noisy social media trend signals.
-* Reinforcement learning (custom Q-learning) to adaptively learn pricing policies in competitive environments.
-* Comparisons of markdown vs. promotion strategies to evaluate stability, profitability, and consumer trust.
-The methodology combines behavioural economics (reference price and fairness perceptions), algorithmic adaptivity (RL), and statistical robustness (Bayesian smoothing) to provide both theoretical insights and practical recommendations. 
-**Code:**
-**Dissertation PDF:** 
-**Dataset:** 
-**Skills:** Behavioural economics & consumer psychology, Econometric modelling & demand estimation, Multi-agent simulation design, Reinforcement learning (Q-learning), Bayesian inference & probabilistic filtering, Robustness checks & scenario testing 
-**Hard Skills:** Python (pandas, statsmodels, numpy, matplotlib), econometrics (OLS regression), Bayesian updating (posterior inference), reinforcement learning (custom-coded Q-learning with epsilon decay), simulation modelling, data preprocessing, and visualisation        
-**Results:**
-* Markdown strategies consistently outperformed promotions in volatile, trend-sensitive markets by stabilising consumer expectations, signalling fairness, and sustaining higher long-term revenues and market share.
-* Temporary promotions generated short-term spikes in sales but led to “promotion addiction,” resetting reference prices downward and eroding long-term profitability and consumer trust.
-* Reinforcement learning policies achieved superior profitability once trained, but they suffered from early instability and volatility sensitivity, especially under noisy trend shocks.
-* Bayesian smoothing significantly enhanced RL performance by filtering transient noise from social media signals, improving stability, profitability, and consumer trust.
-* Strategic roadmap for firms:
-1. Use markdowns to stabilise consumer expectations and build trust in early market phases.
-2. Transition to reinforcement learning once sufficient data is available to enable adaptivity.
-3. Apply Bayesian updating to smooth noisy demand signals and ensure stable, fairness-aware pricing.   
-**Impact & Contribution:** The dissertation contributes to academic literature and managerial practice by:
-* Bridging behavioural pricing theory with reinforcement learning and Bayesian inference in a multi-agent setting.
-* Providing empirical evidence that fairness and stability are as critical as short-term profitability in socially amplified markets.
-* Offering a sequenced pricing strategy that combines markdowns, RL, and Bayesian filtering for sustainable competitive advantage.
-* Highlighting the ethical and policy implications of algorithmic pricing, including fairness, transparency, and risks of tacit collusion.
+**Description:** This MSc dissertation examines dynamic pricing strategies in competitive markets where consumer demand is strongly shaped by social media-driven trends. Viral phenomena on platforms such as TikTok trigger sudden surges and rapid declines in product demand, creating unprecedented volatility and uncertainty for firms. The study seeks to answer whether companies should rely on markdowns, temporary promotions, or adaptive reinforcement learning (RL) to sustain profitability and competitiveness under these conditions. To address this question, an agent-based simulation framework is developed that combines econometric demand modelling, Bayesian inference, and reinforcement learning. Demand estimation is carried out through OLS regression on retail data, incorporating reference price and trend features to capture behavioural and market dynamics. Bayesian updating is employed to filter noisy social media signals and smooth short-lived fluctuations, while a custom Q-learning RL algorithm enables firms to adaptively learn optimal pricing policies in a competitive multi-agent setting. The framework further contrasts markdowns and promotions, evaluating their implications for stability, long-term profitability, and consumer trust. This interdisciplinary approach integrates behavioural economics, algorithmic adaptivity, and statistical robustness to provide both theoretical insights and practical recommendations. <br>
+**Code:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Ahmedabad%20BRTS/SUMO/Code.txt">
+  <code>SUMO-code.txt</code></a><br>
+**PDF:** 
+ <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Ahmedabad%20BRTS/Dissertation%20Preparation.pptx">
+  <code>Dissertation-PDF</code></a><br>
+**Original dataset:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Ahmedabad%20BRTS/Public%20Transportation%20Survey_Data.xlsx">
+  <code>online-retail-data.xlsx</code></a><br>
+  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Ahmedabad%20BRTS/Public%20Transportation%20Survey_Data.xlsx">
+  <code>google-trend-data.csv</code></a><br>
+**Skills:** Behavioural economics & consumer psychology, Econometric modelling & demand estimation, Multi-agent simulation design, Reinforcement learning (Q-learning), Bayesian inference & probabilistic filtering, Robustness checks & scenario testing, data gathering, analytical thinking, visualisation <br>
+**Hard skills:** Python, Word <br>
+**Results:** The findings show that markdown strategies consistently outperform promotions in volatile, trend-sensitive markets. By stabilising consumer expectations and signalling fairness, markdowns sustain higher revenues and preserve long-term market share. Temporary promotions, in contrast, generate immediate sales spikes but foster “promotion addiction,” resetting consumer reference prices downward and ultimately undermining both profitability and trust. Reinforcement learning policies achieve superior profitability once trained, yet they are vulnerable to instability and sensitivity to noisy social media shocks in early phases. Importantly, Bayesian smoothing markedly improves RL performance by filtering transient demand fluctuations, enhancing both profitability and consumer trust. Taken together, the results suggest a sequenced strategy: firms should use markdowns to build trust and stabilise expectations during initial phases of market volatility, transition to reinforcement learning once sufficient data enables adaptive decision-making, and apply Bayesian updating to ensure that pricing remains both robust and fairness-aware in socially amplified markets.
 
 ### Enhancing Efficiency and Societal Impact of Ahmedabad's BRTS: Interventions and Innovations
 **Description:** The study is centered around the analysis of Bus Rapid Transit System (BRTS) utilization and travel behavior, aiming to simulate and comprehend the impact of BRTS on travel time, duration, and emissions. A comparative evaluation of travel performance and emissions among Ahmedabad Municipal Transport Service (AMTS), private cars, and BRTS is conducted through simulation using SUMO (Simulation of Urban Mobility). <br>

@@ -19,9 +19,37 @@ This repository was created to showcase my analytical and technical skills (Exce
 
 ## Portfolio Projects
 This section contains a list of projects with brief descriptions.
+###**Dynamic Pricing in a Competitive Market with Shared Demand Influenced by Social Media Trends**
+**Description:** This MSc dissertation investigates dynamic pricing strategies in competitive markets where consumer demand is strongly influenced by social media driven trends. Viral phenoemna on platforms like TikTok create sudden surges and declines in product demand, introducing high volatility and uncertainty. The research addresses a critical question: Should firms rely on markdowns, temporary promotions, or adaptive reinforcement learning (RL) to remain profitable and competitive under these volatile conditions?
+To answer this, the study develops an agent-based simulation framework that integrates: 
+* Econometric demand modelling (OLS regression on retail data with reference price and trend features).
+* Bayesian updating to filter noisy social media trend signals.
+* Reinforcement learning (custom Q-learning) to adaptively learn pricing policies in competitive environments.
+* Comparisons of markdown vs. promotion strategies to evaluate stability, profitability, and consumer trust.
+The methodology combines behavioural economics (reference price and fairness perceptions), algorithmic adaptivity (RL), and statistical robustness (Bayesian smoothing) to provide both theoretical insights and practical recommendations.
+**Code:**
+**Dissertation PDF:**
+**Dataset:**
+**Skills:** Behavioural economics & consumer psychology, Econometric modelling & demand estimation, Multi-agent simulation design, Reinforcement learning (Q-learning), Bayesian inference & probabilistic filtering, Robustness checks & scenario testing
+**Hard Skills:** Python (pandas, statsmodels, numpy, matplotlib), econometrics (OLS regression), Bayesian updating (posterior inference), reinforcement learning (custom-coded Q-learning with epsilon decay), simulation modelling, data preprocessing, and visualisation
+**Results:**
+* Markdown strategies consistently outperformed promotions in volatile, trend-sensitive markets by stabilising consumer expectations, signalling fairness, and sustaining higher long-term revenues and market share.
+* Temporary promotions generated short-term spikes in sales but led to “promotion addiction,” resetting reference prices downward and eroding long-term profitability and consumer trust.
+* Reinforcement learning policies achieved superior profitability once trained, but they suffered from early instability and volatility sensitivity, especially under noisy trend shocks.
+* Bayesian smoothing significantly enhanced RL performance by filtering transient noise from social media signals, improving stability, profitability, and consumer trust.
+* Strategic roadmap for firms:
+1. Use markdowns to stabilise consumer expectations and build trust in early market phases.
+2. Transition to reinforcement learning once sufficient data is available to enable adaptivity.
+3. Apply Bayesian updating to smooth noisy demand signals and ensure stable, fairness-aware pricing.
+**Impact & Contribution:** The dissertation contributes to academic literature and managerial practice by:
+* Bridging behavioural pricing theory with reinforcement learning and Bayesian inference in a multi-agent setting.
+* Providing empirical evidence that fairness and stability are as critical as short-term profitability in socially amplified markets.
+* Offering a sequenced pricing strategy that combines markdowns, RL, and Bayesian filtering for sustainable competitive advantage.
+* Highlighting the ethical and policy implications of algorithmic pricing, including fairness, transparency, and risks of tacit collusion.
+
 ### Enhancing Efficiency and Societal Impact of Ahmedabad's BRTS: Interventions and Innovations
 **Description:** The study is centered around the analysis of Bus Rapid Transit System (BRTS) utilization and travel behavior, aiming to simulate and comprehend the impact of BRTS on travel time, duration, and emissions. A comparative evaluation of travel performance and emissions among Ahmedabad Municipal Transport Service (AMTS), private cars, and BRTS is conducted through simulation using SUMO (Simulation of Urban Mobility). <br>
-**Code:**<a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Ahmedabad%20BRTS/SUMO/Code.txt">
+**Code:** <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Ahmedabad%20BRTS/SUMO/Code.txt">
   <code>SUMO-code.txt</code></a><br>
 **Presentation:** 
  <a href = "https://github.com/RishikaAgarwal2025/Business-Analysis-Portfolio/blob/main/Dissertation%20-%20Ahmedabad%20BRTS/Dissertation%20Preparation.pptx">
